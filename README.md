@@ -2,14 +2,14 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Tools & Technologies](#tools & technologies)
+- [Tools and Technologies](#tools-and-technologies)
 - [Excel for Data Formatting](#excel-for-data-formatting)
-- [Dataset Breakdown]
-- Data Transformation
-- Power BI Dashboard
-- Insights & Findings
-- Recommendations
-- Future Work
+- [Dataset Breakdown](#dataset-breakdown)
+- [Dataset Transformation](#dataset-transformation)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Insights and Findings](#insights-and-findings)
+- [Recommendations](#recommendations)
+- [Future Work](#future-work)
 
 ### Project Overview
 This project analyses used Tesla vehicle sales data across U.S. states using interactive Power BI dashboards. It examines five models, namely: Model 3, Model Y, Model S, Model X, and Cyber-truck, to identify differences in pricing, mileage, accident history, and regional market performance. 
@@ -19,7 +19,7 @@ The analysis focuses on average vehicle prices, odometer readings, and state-lev
 ### Data Sources
 The primary dataset used for this analysis is the "Tesla Stock Dataset.csv" file, containing detailed information about the five vehicle models manufactured by Tesla.
 
-### Tools & Technologies
+### Tools and Technologies
 - Microsoft Power BI (for visualization)
 - Excel (data cleaning)
 - Power Query (ETL in Power BI)
