@@ -1,0 +1,1860 @@
+model,odometer,price,DAS,accident_history,EMI,State Abb,State
+Model S,36438,53300,Autopilot,Previously Repaired,824,CA,California
+Model S,95696,36100,Enhanced Autopilot,No Accidents,514,AZ,Arizona
+Model S,36438,53300,Autopilot,Previously Repaired,824,CA,California
+Model S,95696,36100,Enhanced Autopilot,No Accidents,514,AZ,Arizona
+Model S,95696,36100,Enhanced Autopilot,No Accidents,514,AZ,Arizona
+Model S,95696,36100,Enhanced Autopilot,No Accidents,514,AZ,Arizona
+Model S,95696,36100,Enhanced Autopilot,No Accidents,514,AZ,Arizona
+Model S,95696,36100,Enhanced Autopilot,No Accidents,514,AZ,Arizona
+Model S,95696,36100,Enhanced Autopilot,No Accidents,514,AZ,Arizona
+Model S,36438,53300,Autopilot,Previously Repaired,824,CA,California
+Model S,62440,34900,Enhanced Autopilot,No Accidents,493,IL,Illinois
+Model S,78029,35800,Autopilot,Previously Repaired,509,IL,Illinois
+Model S,95696,36100,Enhanced Autopilot,No Accidents,514,AZ,Arizona
+Model S,56287,36800,Autopilot,No Accidents,527,FL,Florida
+Model S,65548,37500,Autopilot,No Accidents,540,FL,Florida
+Model S,50142,37900,Autopilot,Previously Repaired,547,FL,Florida
+Model S,36197,38100,Enhanced Autopilot,No Accidents,550,MD,Maryland
+Model S,57440,38200,Enhanced Autopilot,No Accidents,552,WA,Washington
+Model S,61745,38500,Autopilot,Previously Repaired,558,MD,Maryland
+Model S,32523,38500,Autopilot,No Accidents,558,WA,Washington
+Model S,29461,40400,Enhanced Autopilot,Previously Repaired,592,MD,Maryland
+Model S,46116,40500,Autopilot,No Accidents,594,MD,Maryland
+Model S,47668,41200,Enhanced Autopilot,Previously Repaired,606,MD,Maryland
+Model S,38966,42000,Autopilot,No Accidents,621,NJ,New Jersey
+Model S,40811,42700,Autopilot,No Accidents,633,MD,Maryland
+Model S,31239,42900,Enhanced Autopilot,No Accidents,637,GA,Georgia
+Model S,31240,44100,Enhanced Autopilot,Previously Repaired,658,TN,Tennessee
+Model S,66754,45000,Autopilot,Previously Repaired,674,MN,Minnesota
+Model S,26886,47500,Enhanced Autopilot,No Accidents,719,VA,Virginia
+Model S,48618,48800,Autopilot,No Accidents,743,FL,Florida
+Model S,46081,53000,Autopilot,No Accidents,818,MA,Massachusetts
+Model S,36438,53300,Autopilot,Previously Repaired,824,CA,California
+Model S,36438,53300,Autopilot,Previously Repaired,824,CA,California
+Model S,63298,40400,Autopilot,Previously Repaired,592,FL,Florida
+Model S,81419,42400,Autopilot,No Accidents,628,IL,Illinois
+Model S,46841,43300,Autopilot,No Accidents,644,FL,Florida
+Model S,38244,46100,Autopilot,No Accidents,694,MD,Maryland
+Model S,13821,47100,Autopilot,No Accidents,712,TN,Tennessee
+Model S,40551,48100,Autopilot,No Accidents,730,MN,Minnesota
+Model S,63298,40400,Autopilot,Previously Repaired,592,FL,Florida
+Model S,81419,42400,Autopilot,No Accidents,628,IL,Illinois
+Model S,46841,43300,Autopilot,No Accidents,644,FL,Florida
+Model S,38244,46100,Autopilot,No Accidents,694,MD,Maryland
+Model S,13821,47100,Autopilot,No Accidents,712,TN,Tennessee
+Model S,40551,48100,Autopilot,No Accidents,730,MN,Minnesota
+Model S,63298,40400,Autopilot,Previously Repaired,592,FL,Florida
+Model S,81419,42400,Autopilot,No Accidents,628,IL,Illinois
+Model S,46841,43300,Autopilot,No Accidents,644,FL,Florida
+Model S,38244,46100,Autopilot,No Accidents,694,MD,Maryland
+Model S,13821,47100,Autopilot,No Accidents,712,TN,Tennessee
+Model S,40551,48100,Autopilot,No Accidents,730,MN,Minnesota
+Model S,46841,40400,Autopilot,Previously Repaired,592,FL,Florida
+Model S,22055,42400,Autopilot,No Accidents,628,IL,Illinois
+Model S,81419,43300,Autopilot,No Accidents,644,FL,Florida
+Model S,13821,46100,Autopilot,No Accidents,694,MD,Maryland
+Model S,63298,47100,Autopilot,No Accidents,712,TN,Tennessee
+Model S,38244,48100,Autopilot,No Accidents,730,MN,Minnesota
+Model S,63298,40400,Autopilot,Previously Repaired,592,FL,Florida
+Model S,81419,42400,Autopilot,No Accidents,628,IL,Illinois
+Model S,46841,43300,Autopilot,No Accidents,644,FL,Florida
+Model S,38244,46100,Autopilot,No Accidents,694,MD,Maryland
+Model S,13821,47100,Autopilot,No Accidents,712,TN,Tennessee
+Model S,40551,48100,Autopilot,No Accidents,730,MN,Minnesota
+Model S,63298,40400,Autopilot,Previously Repaired,592,FL,Florida
+Model S,81419,42400,Autopilot,No Accidents,628,IL,Illinois
+Model S,46841,43300,Autopilot,No Accidents,644,FL,Florida
+Model S,38244,46100,Autopilot,No Accidents,694,MD,Maryland
+Model S,13821,47100,Autopilot,No Accidents,712,TN,Tennessee
+Model S,40551,48100,Autopilot,No Accidents,730,MN,Minnesota
+Model S,63298,40400,Autopilot,Previously Repaired,592,FL,Florida
+Model S,81419,42400,Autopilot,No Accidents,628,IL,Illinois
+Model S,46841,43300,Autopilot,No Accidents,644,FL,Florida
+Model S,38244,46100,Autopilot,No Accidents,694,MD,Maryland
+Model S,13821,47100,Autopilot,No Accidents,712,TN,Tennessee
+Model S,40551,48100,Autopilot,No Accidents,730,MN,Minnesota
+Model S,63298,40400,Autopilot,Previously Repaired,592,FL,Florida
+Model S,81419,42400,Autopilot,No Accidents,628,IL,Illinois
+Model S,46841,43300,Autopilot,No Accidents,644,FL,Florida
+Model S,38244,46100,Autopilot,No Accidents,694,MD,Maryland
+Model S,13821,47100,Autopilot,No Accidents,712,TN,Tennessee
+Model S,40551,48100,Autopilot,No Accidents,730,MN,Minnesota
+Model S,41391,47300,Autopilot,No Accidents,716,CA,California
+Model S,36925,53100,Autopilot,No Accidents,820,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,45284,47200,Autopilot,No Accidents,714,MA,Massachusetts
+Model S,60507,48200,Autopilot,Previously Repaired,732,FL,Florida
+Model S,27828,49400,Autopilot,Previously Repaired,754,MN,Minnesota
+Model S,25082,49700,Autopilot,No Accidents,759,FL,Florida
+Model S,32822,49900,Autopilot,No Accidents,763,IL,Illinois
+Model S,25039,50300,Autopilot,No Accidents,770,FL,Florida
+Model S,38783,50400,Autopilot,No Accidents,772,IL,Illinois
+Model S,19821,50500,Autopilot,No Accidents,773,MD,Maryland
+Model S,29199,50700,Autopilot,No Accidents,777,FL,Florida
+Model S,47056,51100,Autopilot,No Accidents,784,NC,North Carolina
+Model S,28249,51500,Autopilot,No Accidents,791,MN,Minnesota
+Model S,33368,51500,Autopilot,No Accidents,791,CA,California
+Model S,56931,51800,Full Self-Driving ,Previously Repaired,797,MD,Maryland
+Model S,34703,51900,Autopilot,No Accidents,799,VA,Virginia
+Model S,28674,52400,Autopilot,No Accidents,808,GA,Georgia
+Model S,42529,52500,Autopilot,No Accidents,809,CA,California
+Model S,50881,53100,Full Self-Driving ,Previously Repaired,820,NC,North Carolina
+Model S,20180,53700,Autopilot,Previously Repaired,831,NJ,New Jersey
+Model S,22417,53700,Autopilot,No Accidents,831,FL,Florida
+Model S,40479,53700,Autopilot,No Accidents,831,IL,Illinois
+Model S,28579,54000,Autopilot,No Accidents,836,CA,California
+Model S,38650,54100,Autopilot,No Accidents,838,NJ,New Jersey
+Model S,20260,54400,Autopilot,No Accidents,844,GA,Georgia
+Model S,21684,54400,Autopilot,No Accidents,844,CA,California
+Model S,32577,55400,Autopilot,No Accidents,862,GA,Georgia
+Model S,30505,55600,Autopilot,No Accidents,865,IL,Illinois
+Model S,29418,55700,Autopilot,No Accidents,867,MD,Maryland
+Model S,15604,55800,Autopilot,No Accidents,869,NJ,New Jersey
+Model S,35236,55800,Full Self-Driving ,Previously Repaired,869,FL,Florida
+Model S,18720,56000,Autopilot,No Accidents,872,CA,California
+Model S,37443,56400,Full Self-Driving ,No Accidents,880,CA,California
+Model S,27404,56500,Autopilot,Previously Repaired,881,CA,California
+Model S,13138,56800,Autopilot,No Accidents,887,MN,Minnesota
+Model S,25297,56900,Autopilot,No Accidents,889,FL,Florida
+Model S,27702,57200,Autopilot,No Accidents,894,GA,Georgia
+Model S,34506,57900,Autopilot,No Accidents,907,MD,Maryland
+Model S,16444,58400,Full Self-Driving ,Previously Repaired,915,FL,Florida
+Model S,15063,58700,Autopilot,No Accidents,921,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,14721,59100,Autopilot,No Accidents,928,NC,North Carolina
+Model S,16870,59600,Autopilot,No Accidents,937,NJ,New Jersey
+Model S,30024,59700,Full Self-Driving ,No Accidents,939,GA,Georgia
+Model S,33215,60200,Full Self-Driving ,No Accidents,948,CA,California
+Model S,30146,60300,Full Self-Driving ,No Accidents,950,CA,California
+Model S,13149,61200,Autopilot,Previously Repaired,966,GA,Georgia
+Model S,42094,62100,Full Self-Driving ,No Accidents,982,CA,California
+Model S,22608,62100,Full Self-Driving ,No Accidents,982,MD,Maryland
+Model S,41391,47300,Autopilot,No Accidents,716,CA,California
+Model S,36925,53100,Autopilot,No Accidents,820,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,41391,47300,Autopilot,No Accidents,716,CA,California
+Model S,36925,53100,Autopilot,No Accidents,820,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,45284,47200,Autopilot,No Accidents,714,MA,Massachusetts
+Model S,60507,48200,Autopilot,Previously Repaired,732,FL,Florida
+Model S,27828,49400,Autopilot,Previously Repaired,754,MN,Minnesota
+Model S,25082,49700,Autopilot,No Accidents,759,FL,Florida
+Model S,32822,49900,Autopilot,No Accidents,763,IL,Illinois
+Model S,25039,50300,Autopilot,No Accidents,770,FL,Florida
+Model S,38783,50400,Autopilot,No Accidents,772,IL,Illinois
+Model S,19821,50500,Autopilot,No Accidents,773,MD,Maryland
+Model S,29199,50700,Autopilot,No Accidents,777,FL,Florida
+Model S,47056,51100,Autopilot,No Accidents,784,NC,North Carolina
+Model S,28249,51500,Autopilot,No Accidents,791,MN,Minnesota
+Model S,33368,51500,Autopilot,No Accidents,791,CA,California
+Model S,56931,51800,Full Self-Driving ,Previously Repaired,797,MD,Maryland
+Model S,34703,51900,Autopilot,No Accidents,799,VA,Virginia
+Model S,28674,52400,Autopilot,No Accidents,808,GA,Georgia
+Model S,42529,52500,Autopilot,No Accidents,809,CA,California
+Model S,50881,53100,Full Self-Driving ,Previously Repaired,820,NC,North Carolina
+Model S,22417,53700,Autopilot,No Accidents,831,FL,Florida
+Model S,40479,53700,Autopilot,No Accidents,831,IL,Illinois
+Model S,20180,53700,Autopilot,Previously Repaired,831,NJ,New Jersey
+Model S,28579,54000,Autopilot,No Accidents,836,CA,California
+Model S,38650,54100,Autopilot,No Accidents,838,NJ,New Jersey
+Model S,20260,54400,Autopilot,No Accidents,844,GA,Georgia
+Model S,21684,54400,Autopilot,No Accidents,844,CA,California
+Model S,32577,55400,Autopilot,No Accidents,862,GA,Georgia
+Model S,30505,55600,Autopilot,No Accidents,865,IL,Illinois
+Model S,29418,55700,Autopilot,No Accidents,867,MD,Maryland
+Model S,15604,55800,Autopilot,No Accidents,869,NJ,New Jersey
+Model S,35236,55800,Full Self-Driving ,Previously Repaired,869,FL,Florida
+Model S,18720,56000,Autopilot,No Accidents,872,CA,California
+Model S,37443,56400,Full Self-Driving ,No Accidents,880,CA,California
+Model S,27404,56500,Autopilot,Previously Repaired,881,CA,California
+Model S,13138,56800,Autopilot,No Accidents,887,MN,Minnesota
+Model S,25297,56900,Autopilot,No Accidents,889,FL,Florida
+Model S,27702,57200,Autopilot,No Accidents,894,GA,Georgia
+Model S,34506,57900,Autopilot,No Accidents,907,MD,Maryland
+Model S,16444,58400,Full Self-Driving ,Previously Repaired,915,FL,Florida
+Model S,15063,58700,Autopilot,No Accidents,921,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,14721,59100,Autopilot,No Accidents,928,NC,North Carolina
+Model S,16870,59600,Autopilot,No Accidents,937,NJ,New Jersey
+Model S,30024,59700,Full Self-Driving ,No Accidents,939,GA,Georgia
+Model S,33215,60200,Full Self-Driving ,No Accidents,948,CA,California
+Model S,30146,60300,Full Self-Driving ,No Accidents,950,CA,California
+Model S,13149,61200,Autopilot,Previously Repaired,966,GA,Georgia
+Model S,42094,62100,Full Self-Driving ,No Accidents,982,CA,California
+Model S,22608,62100,Full Self-Driving ,No Accidents,982,MD,Maryland
+Model S,41391,47300,Autopilot,No Accidents,716,CA,California
+Model S,36925,53100,Autopilot,No Accidents,820,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,45284,47200,Autopilot,No Accidents,714,MA,Massachusetts
+Model S,60507,48200,Autopilot,Previously Repaired,732,FL,Florida
+Model S,27828,49400,Autopilot,Previously Repaired,754,MN,Minnesota
+Model S,25082,49700,Autopilot,No Accidents,759,FL,Florida
+Model S,32822,49900,Autopilot,No Accidents,763,IL,Illinois
+Model S,25039,50300,Autopilot,No Accidents,770,FL,Florida
+Model S,38783,50400,Autopilot,No Accidents,772,IL,Illinois
+Model S,19821,50500,Autopilot,No Accidents,773,MD,Maryland
+Model S,29199,50700,Autopilot,No Accidents,777,FL,Florida
+Model S,47056,51100,Autopilot,No Accidents,784,NC,North Carolina
+Model S,28249,51500,Autopilot,No Accidents,791,MN,Minnesota
+Model S,33368,51500,Autopilot,No Accidents,791,CA,California
+Model S,56931,51800,Full Self-Driving ,Previously Repaired,797,MD,Maryland
+Model S,34703,51900,Autopilot,No Accidents,799,VA,Virginia
+Model S,28674,52400,Autopilot,No Accidents,808,GA,Georgia
+Model S,42529,52500,Autopilot,No Accidents,809,CA,California
+Model S,50881,53100,Full Self-Driving ,Previously Repaired,820,NC,North Carolina
+Model S,22417,53700,Autopilot,No Accidents,831,FL,Florida
+Model S,40479,53700,Autopilot,No Accidents,831,IL,Illinois
+Model S,20180,53700,Autopilot,Previously Repaired,831,NJ,New Jersey
+Model S,28579,54000,Autopilot,No Accidents,836,CA,California
+Model S,38650,54100,Autopilot,No Accidents,838,NJ,New Jersey
+Model S,20260,54400,Autopilot,No Accidents,844,GA,Georgia
+Model S,21684,54400,Autopilot,No Accidents,844,CA,California
+Model S,32577,55400,Autopilot,No Accidents,862,GA,Georgia
+Model S,30505,55600,Autopilot,No Accidents,865,IL,Illinois
+Model S,29418,55700,Autopilot,No Accidents,867,MD,Maryland
+Model S,15604,55800,Autopilot,No Accidents,869,NJ,New Jersey
+Model S,35236,55800,Full Self-Driving ,Previously Repaired,869,FL,Florida
+Model S,18720,56000,Autopilot,No Accidents,872,CA,California
+Model S,37443,56400,Full Self-Driving ,No Accidents,880,CA,California
+Model S,27404,56500,Autopilot,Previously Repaired,881,CA,California
+Model S,13138,56800,Autopilot,No Accidents,887,MN,Minnesota
+Model S,25297,56900,Autopilot,No Accidents,889,FL,Florida
+Model S,27702,57200,Autopilot,No Accidents,894,GA,Georgia
+Model S,34506,57900,Autopilot,No Accidents,907,MD,Maryland
+Model S,16444,58400,Full Self-Driving ,Previously Repaired,915,FL,Florida
+Model S,15063,58700,Autopilot,No Accidents,921,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,14721,59100,Autopilot,No Accidents,928,NC,North Carolina
+Model S,16870,59600,Autopilot,No Accidents,937,NJ,New Jersey
+Model S,30024,59700,Full Self-Driving ,No Accidents,939,GA,Georgia
+Model S,33215,60200,Full Self-Driving ,No Accidents,948,CA,California
+Model S,30146,60300,Full Self-Driving ,No Accidents,950,CA,California
+Model S,13149,61200,Autopilot,Previously Repaired,966,GA,Georgia
+Model S,42094,62100,Full Self-Driving ,No Accidents,982,CA,California
+Model S,22608,62100,Full Self-Driving ,No Accidents,982,MD,Maryland
+Model S,45284,47200,Autopilot,No Accidents,714,MA,Massachusetts
+Model S,41391,47300,Autopilot,No Accidents,716,CA,California
+Model S,60507,48200,Autopilot,Previously Repaired,732,FL,Florida
+Model S,27828,49400,Autopilot,Previously Repaired,754,MN,Minnesota
+Model S,25082,49700,Autopilot,No Accidents,759,FL,Florida
+Model S,32822,49900,Autopilot,No Accidents,763,IL,Illinois
+Model S,25039,50300,Autopilot,No Accidents,770,FL,Florida
+Model S,38783,50400,Autopilot,No Accidents,772,IL,Illinois
+Model S,19821,50500,Autopilot,No Accidents,773,MD,Maryland
+Model S,29199,50700,Autopilot,No Accidents,777,FL,Florida
+Model S,47056,51100,Autopilot,No Accidents,784,NC,North Carolina
+Model S,28249,51500,Autopilot,No Accidents,791,MN,Minnesota
+Model S,33368,51500,Autopilot,No Accidents,791,CA,California
+Model S,56931,51800,Full Self-Driving ,Previously Repaired,797,MD,Maryland
+Model S,34703,51900,Autopilot,No Accidents,799,VA,Virginia
+Model S,28674,52400,Autopilot,No Accidents,808,GA,Georgia
+Model S,42529,52500,Autopilot,No Accidents,809,CA,California
+Model S,50881,53100,Full Self-Driving ,Previously Repaired,820,NC,North Carolina
+Model S,36925,53100,Autopilot,No Accidents,820,CA,California
+Model S,20180,53700,Autopilot,Previously Repaired,831,NJ,New Jersey
+Model S,22417,53700,Autopilot,No Accidents,831,FL,Florida
+Model S,40479,53700,Autopilot,No Accidents,831,IL,Illinois
+Model S,28579,54000,Autopilot,No Accidents,836,CA,California
+Model S,38650,54100,Autopilot,No Accidents,838,NJ,New Jersey
+Model S,20260,54400,Autopilot,No Accidents,844,GA,Georgia
+Model S,21684,54400,Autopilot,No Accidents,844,CA,California
+Model S,32577,55400,Autopilot,No Accidents,862,GA,Georgia
+Model S,30505,55600,Autopilot,No Accidents,865,IL,Illinois
+Model S,29418,55700,Autopilot,No Accidents,867,MD,Maryland
+Model S,15604,55800,Autopilot,No Accidents,869,NJ,New Jersey
+Model S,35236,55800,Full Self-Driving ,Previously Repaired,869,FL,Florida
+Model S,18720,56000,Autopilot,No Accidents,872,CA,California
+Model S,37443,56400,Full Self-Driving ,No Accidents,880,CA,California
+Model S,27404,56500,Autopilot,Previously Repaired,881,CA,California
+Model S,13138,56800,Autopilot,No Accidents,887,MN,Minnesota
+Model S,25297,56900,Autopilot,No Accidents,889,FL,Florida
+Model S,27702,57200,Autopilot,No Accidents,894,GA,Georgia
+Model S,34506,57900,Autopilot,No Accidents,907,MD,Maryland
+Model S,16444,58400,Full Self-Driving ,Previously Repaired,915,FL,Florida
+Model S,15063,58700,Autopilot,No Accidents,921,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,14721,59100,Autopilot,No Accidents,928,NC,North Carolina
+Model S,16870,59600,Autopilot,No Accidents,937,NJ,New Jersey
+Model S,30024,59700,Full Self-Driving ,No Accidents,939,GA,Georgia
+Model S,33215,60200,Full Self-Driving ,No Accidents,948,CA,California
+Model S,30146,60300,Full Self-Driving ,No Accidents,950,CA,California
+Model S,13149,61200,Autopilot,Previously Repaired,966,GA,Georgia
+Model S,42094,62100,Full Self-Driving ,No Accidents,982,CA,California
+Model S,22608,62100,Full Self-Driving ,No Accidents,982,MD,Maryland
+Model S,41391,47300,Autopilot,No Accidents,716,CA,California
+Model S,36925,53100,Autopilot,No Accidents,820,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,33368,51500,Autopilot,No Accidents,791,CA,California
+Model S,42529,52500,Autopilot,No Accidents,809,CA,California
+Model S,28579,54000,Autopilot,No Accidents,836,CA,California
+Model S,21684,54400,Autopilot,No Accidents,844,CA,California
+Model S,37443,56400,Full Self-Driving ,No Accidents,880,CA,California
+Model S,27404,56500,Autopilot,Previously Repaired,881,CA,California
+Model S,13138,56800,Autopilot,No Accidents,887,CA,California
+Model S,14721,59100,Autopilot,No Accidents,928,CA,California
+Model S,30146,60300,Full Self-Driving ,No Accidents,950,CA,California
+Model S,13149,61200,Autopilot,Previously Repaired,966,CA,California
+Model S,22608,62100,Full Self-Driving ,No Accidents,982,CA,California
+Model S,45284,47200,Autopilot,No Accidents,714,MA,Massachusetts
+Model S,60507,48200,Autopilot,Previously Repaired,732,FL,Florida
+Model S,27828,49400,Autopilot,Previously Repaired,754,MN,Minnesota
+Model S,25082,49700,Autopilot,No Accidents,759,FL,Florida
+Model S,32822,49900,Autopilot,No Accidents,763,IL,Illinois
+Model S,25039,50300,Autopilot,No Accidents,770,FL,Florida
+Model S,38783,50400,Autopilot,No Accidents,772,IL,Illinois
+Model S,19821,50500,Autopilot,No Accidents,773,MD,Maryland
+Model S,29199,50700,Autopilot,No Accidents,777,FL,Florida
+Model S,47056,51100,Autopilot,No Accidents,784,NC,North Carolina
+Model S,28249,51500,Autopilot,No Accidents,791,MN,Minnesota
+Model S,56931,51800,Full Self-Driving ,Previously Repaired,797,MD,Maryland
+Model S,34703,51900,Autopilot,No Accidents,799,VA,Virginia
+Model S,28674,52400,Autopilot,No Accidents,808,GA,Georgia
+Model S,50881,53100,Full Self-Driving ,Previously Repaired,820,NC,North Carolina
+Model S,22417,53700,Autopilot,No Accidents,831,FL,Florida
+Model S,40479,53700,Autopilot,No Accidents,831,IL,Illinois
+Model S,20180,53700,Autopilot,Previously Repaired,831,NJ,New Jersey
+Model S,38650,54100,Autopilot,No Accidents,838,NJ,New Jersey
+Model S,20260,54400,Autopilot,No Accidents,844,GA,Georgia
+Model S,32577,55400,Autopilot,No Accidents,862,GA,Georgia
+Model S,30505,55600,Autopilot,No Accidents,865,IL,Illinois
+Model S,29418,55700,Autopilot,No Accidents,867,MD,Maryland
+Model S,15604,55800,Autopilot,No Accidents,869,NJ,New Jersey
+Model S,35236,55800,Full Self-Driving ,Previously Repaired,869,FL,Florida
+Model S,18720,56000,Autopilot,No Accidents,872,MN,Minnesota
+Model S,25297,56900,Autopilot,No Accidents,889,FL,Florida
+Model S,27702,57200,Autopilot,No Accidents,894,GA,Georgia
+Model S,34506,57900,Autopilot,No Accidents,907,MD,Maryland
+Model S,16444,58400,Full Self-Driving ,Previously Repaired,915,FL,Florida
+Model S,15063,58700,Autopilot,No Accidents,921,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,NC,North Carolina
+Model S,16870,59600,Autopilot,No Accidents,937,NJ,New Jersey
+Model S,30024,59700,Full Self-Driving ,No Accidents,939,GA,Georgia
+Model S,33215,60200,Full Self-Driving ,No Accidents,948,GA,Georgia
+Model S,42094,62100,Full Self-Driving ,No Accidents,982,MD,Maryland
+Model S,23333,63000,Full Self-Driving ,Previously Repaired,998,MN,Minnesota
+Model S,15242,63800,Full Self-Driving ,No Accidents,1013,NJ,New Jersey
+Model S,9644,64200,Full Self-Driving ,No Accidents,1020,MN,Minnesota
+Model S,22773,68200,Full Self-Driving ,No Accidents,1092,NJ,New Jersey
+Model S,33368,51500,Autopilot,No Accidents,791,CA,California
+Model S,42529,52500,Autopilot,No Accidents,809,CA,California
+Model S,28579,54000,Autopilot,No Accidents,836,CA,California
+Model S,21684,54400,Autopilot,No Accidents,844,CA,California
+Model S,37443,56400,Full Self-Driving ,No Accidents,880,CA,California
+Model S,27404,56500,Autopilot,Previously Repaired,881,CA,California
+Model S,13138,56800,Autopilot,No Accidents,887,CA,California
+Model S,14721,59100,Autopilot,No Accidents,928,CA,California
+Model S,30146,60300,Full Self-Driving ,No Accidents,950,CA,California
+Model S,13149,61200,Autopilot,Previously Repaired,966,CA,California
+Model S,22608,62100,Full Self-Driving ,No Accidents,982,CA,California
+Model S,33368,51500,Autopilot,No Accidents,791,CA,California
+Model S,42529,52500,Autopilot,No Accidents,809,CA,California
+Model S,28579,54000,Autopilot,No Accidents,836,CA,California
+Model S,21684,54400,Autopilot,No Accidents,844,CA,California
+Model S,37443,56400,Full Self-Driving ,No Accidents,880,CA,California
+Model S,27404,56500,Autopilot,Previously Repaired,881,CA,California
+Model S,13138,56800,Autopilot,No Accidents,887,CA,California
+Model S,14721,59100,Autopilot,No Accidents,928,CA,California
+Model S,30146,60300,Full Self-Driving ,No Accidents,950,CA,California
+Model S,13149,61200,Autopilot,Previously Repaired,966,CA,California
+Model S,22608,62100,Full Self-Driving ,No Accidents,982,CA,California
+Model S,41391,47300,Autopilot,No Accidents,716,CA,California
+Model S,36925,53100,Autopilot,No Accidents,820,CA,California
+Model S,16994,58800,Enhanced Autopilot,No Accidents,923,CA,California
+Model S,45284,47200,Autopilot,No Accidents,714,MA,Massachusetts
+Model S,60507,48200,Autopilot,Previously Repaired,732,FL,Florida
+Model S,27828,49400,Autopilot,Previously Repaired,754,MN,Minnesota
+Model S,25082,49700,Autopilot,No Accidents,759,FL,Florida
+Model S,32822,49900,Autopilot,No Accidents,763,IL,Illinois
+Model S,25039,50300,Autopilot,No Accidents,770,FL,Florida
+Model S,38783,50400,Autopilot,No Accidents,772,IL,Illinois
+Model S,19821,50500,Autopilot,No Accidents,773,MD,Maryland
+Model S,29199,50700,Autopilot,No Accidents,777,FL,Florida
+Model S,47056,51100,Autopilot,No Accidents,784,NC,North Carolina
+Model S,28249,51500,Autopilot,No Accidents,791,MN,Minnesota
+Model S,33368,51500,Autopilot,No Accidents,791,CA,California
+Model S,56931,51800,Full Self-Driving ,Previously Repaired,797,MD,Maryland
+Model S,34703,51900,Autopilot,No Accidents,799,VA,Virginia
+Model S,28674,52400,Autopilot,No Accidents,808,GA,Georgia
+Model S,42529,52500,Autopilot,No Accidents,809,CA,California
+Model S,50881,53100,Full Self-Driving ,Previously Repaired,820,NC,North Carolina
+Model S,22417,53700,Autopilot,No Accidents,831,FL,Florida
+Model S,40479,53700,Autopilot,No Accidents,831,IL,Illinois
+Model S,20180,53700,Autopilot,Previously Repaired,831,NJ,New Jersey
+Model S,28579,54000,Autopilot,No Accidents,836,CA,California
+Model S,38650,54100,Autopilot,No Accidents,838,NJ,New Jersey
+Model S,20260,54400,Autopilot,No Accidents,844,GA,Georgia
+Model S,21684,54400,Autopilot,No Accidents,844,CA,California
+Model S,32577,55400,Autopilot,No Accidents,862,GA,Georgia
+Model S,30505,55600,Autopilot,No Accidents,865,IL,Illinois
+Model S,29418,55700,Autopilot,No Accidents,867,MD,Maryland
+Model S,15604,55800,Autopilot,No Accidents,869,NJ,New Jersey
+Model S,35236,55800,Full Self-Driving ,Previously Repaired,869,FL,Florida
+Model S,18720,56000,Autopilot,No Accidents,872,CA,California
+Model S,37443,56400,Full Self-Driving ,No Accidents,880,CA,California
+Model S,27404,56500,Autopilot,Previously Repaired,881,CA,California
+Model S,13138,56800,Autopilot,No Accidents,887,MN,Minnesota
+Model S,25297,56900,Autopilot,No Accidents,889,FL,Florida
+Model S,27702,57200,Autopilot,No Accidents,894,GA,Georgia
+Model S,34506,57900,Autopilot,No Accidents,907,MD,Maryland
+Model S,16444,58400,Full Self-Driving ,Previously Repaired,915,FL,Florida
+Model S,15063,58700,Autopilot,No Accidents,921,CA,California
+Model S,14721,59100,Autopilot,No Accidents,928,NC,North Carolina
+Model S,16870,59600,Autopilot,No Accidents,937,NJ,New Jersey
+Model S,30024,59700,Full Self-Driving ,No Accidents,939,GA,Georgia
+Model S,33215,60200,Full Self-Driving ,No Accidents,948,CA,California
+Model S,30146,60300,Full Self-Driving ,No Accidents,950,CA,California
+Model S,13149,61200,Autopilot,Previously Repaired,966,GA,Georgia
+Model S,42094,62100,Full Self-Driving ,No Accidents,982,CA,California
+Model S,22608,62100,Full Self-Driving ,No Accidents,982,MD,Maryland
+Model S,23333,63000,Full Self-Driving ,Previously Repaired,998,MN,Minnesota
+Model S,15242,63800,Full Self-Driving ,No Accidents,1013,NJ,New Jersey
+Model S,9644,64200,Full Self-Driving ,No Accidents,1020,MN,Minnesota
+Model S,11800,65200,Full Self-Driving ,No Accidents,1038,CA,California
+Model S,17927,83600,Full Self-Driving ,No Accidents,1369,CA,California
+Model S,17964,84600,Full Self-Driving ,No Accidents,1387,CA,California
+Model S,59393,52200,Autopilot,No Accidents,804,GA,Georgia
+Model S,26281,58500,Autopilot,No Accidents,917,FL,Florida
+Model S,11800,65200,Full Self-Driving ,No Accidents,1038,CA,California
+Model S,28658,72700,Autopilot,No Accidents,1173,MD,Maryland
+Model S,23273,74600,Autopilot,No Accidents,1207,MN,Minnesota
+Model S,14754,78500,Autopilot,No Accidents,1277,FL,Florida
+Model S,17422,80900,Full Self-Driving ,No Accidents,1320,MN,Minnesota
+Model S,10084,82800,Full Self-Driving ,No Accidents,1354,FL,Florida
+Model S,11800,65200,Full Self-Driving ,No Accidents,1038,CA,California
+Model S,17927,83600,Full Self-Driving ,No Accidents,1369,CA,California
+Model S,17964,84600,Full Self-Driving ,No Accidents,1387,CA,California
+Model S,59393,52200,Autopilot,No Accidents,804,GA,Georgia
+Model S,26281,58500,Autopilot,No Accidents,917,FL,Florida
+Model S,11800,65200,Full Self-Driving ,No Accidents,1038,CA,California
+Model S,28658,72700,Autopilot,No Accidents,1173,MD,Maryland
+Model S,23273,74600,Autopilot,No Accidents,1207,MN,Minnesota
+Model S,14754,78500,Autopilot,No Accidents,1277,FL,Florida
+Model S,17422,80900,Full Self-Driving ,No Accidents,1320,MN,Minnesota
+Model S,10084,82800,Full Self-Driving ,No Accidents,1354,FL,Florida
+Model S,11800,65200,Full Self-Driving ,No Accidents,1038,CA,California
+Model S,17927,83600,Full Self-Driving ,No Accidents,1369,CA,California
+Model S,17964,84600,Full Self-Driving ,No Accidents,1387,CA,California
+Model S,59393,52200,Autopilot,No Accidents,804,GA,Georgia
+Model S,26281,58500,Autopilot,No Accidents,917,FL,Florida
+Model S,11800,65200,Full Self-Driving ,No Accidents,1038,CA,California
+Model S,28658,72700,Autopilot,No Accidents,1173,MD,Maryland
+Model S,23273,74600,Autopilot,No Accidents,1207,MN,Minnesota
+Model S,14754,78500,Autopilot,No Accidents,1277,FL,Florida
+Model S,17422,80900,Full Self-Driving ,No Accidents,1320,MN,Minnesota
+Model S,10084,82800,Full Self-Driving ,No Accidents,1354,FL,Florida
+Model S,11800,65200,Full Self-Driving ,No Accidents,1038,CA,California
+Model S,59393,52200,Autopilot,No Accidents,804,GA,Georgia
+Model S,26281,58500,Autopilot,No Accidents,917,FL,Florida
+Model S,28658,72700,Autopilot,No Accidents,1173,MD,Maryland
+Model S,23273,74600,Autopilot,No Accidents,1207,MN,Minnesota
+Model S,14754,78500,Autopilot,No Accidents,1277,FL,Florida
+Model S,17422,80900,Full Self-Driving ,No Accidents,1320,MN,Minnesota
+Model S,10084,82800,Full Self-Driving ,No Accidents,1354,CA,California
+Model S,17927,83600,Full Self-Driving ,No Accidents,1369,CA,California
+Model S,17964,84600,Full Self-Driving ,No Accidents,1387,FL,Florida
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model S,21312,77100,Autopilot,No Accidents,1252,CA,California
+Model X,29858,57100,Autopilot,No Accidents,892,WA,Washington
+Model X,33020,46600,Enhanced Autopilot,No Accidents,703,CA,California
+Model X,33382,46800,Autopilot,No Accidents,707,NJ,New Jersey
+Model X,45395,47100,Enhanced Autopilot,No Accidents,712,CA,California
+Model X,24487,48600,Autopilot,No Accidents,739,CA,California
+Model X,49895,49300,Autopilot,No Accidents,752,CA,California
+Model X,18721,50800,Enhanced Autopilot,No Accidents,779,NJ,New Jersey
+Model X,41895,51700,Autopilot,No Accidents,795,VA,Virginia
+Model X,29668,52400,Autopilot,No Accidents,808,FL,Florida
+Model X,27927,58300,Autopilot,No Accidents,914,MD,Maryland
+Model X,88123,44100,Autopilot,No Accidents,658,GA,Georgia
+Model X,61874,47500,Enhanced Autopilot,Previously Repaired,719,CA,California
+Model X,44067,56900,Autopilot,No Accidents,889,FL,Florida
+Model X,57890,41200,Autopilot,No Accidents,606,IL,Illinois
+Model X,59222,48800,Autopilot,Previously Repaired,743,NJ,New Jersey
+Model X,44208,56500,Autopilot,No Accidents,881,MD,Maryland
+Model X,29858,57100,Autopilot,No Accidents,892,WA,Washington
+Model X,57890,41200,Autopilot,No Accidents,606,IL,Illinois
+Model X,59222,48800,Autopilot,Previously Repaired,743,NJ,New Jersey
+Model X,44208,56500,Autopilot,No Accidents,881,MD,Maryland
+Model X,29858,57100,Autopilot,No Accidents,892,WA,Washington
+Model X,33020,46600,Enhanced Autopilot,No Accidents,703,CA,California
+Model X,33382,46800,Autopilot,No Accidents,707,NJ,New Jersey
+Model X,45395,47100,Enhanced Autopilot,No Accidents,712,CA,California
+Model X,24487,48600,Autopilot,No Accidents,739,CA,California
+Model X,49895,49300,Autopilot,No Accidents,752,CA,California
+Model X,18721,50800,Enhanced Autopilot,No Accidents,779,NJ,New Jersey
+Model X,41895,51700,Autopilot,No Accidents,795,VA,Virginia
+Model X,29668,52400,Autopilot,No Accidents,808,FL,Florida
+Model X,27927,58300,Autopilot,No Accidents,914,MD,Maryland
+Model X,88123,44100,Autopilot,No Accidents,658,GA,Georgia
+Model X,61874,47500,Enhanced Autopilot,Previously Repaired,719,CA,California
+Model X,44067,56900,Autopilot,No Accidents,889,FL,Florida
+Model X,33020,46600,Enhanced Autopilot,No Accidents,703,CA,California
+Model X,45395,47100,Enhanced Autopilot,No Accidents,712,CA,California
+Model X,24487,48600,Autopilot,No Accidents,739,CA,California
+Model X,49895,49300,Autopilot,No Accidents,752,CA,California
+Model X,33020,46600,Enhanced Autopilot,No Accidents,703,CA,California
+Model X,45395,47100,Enhanced Autopilot,No Accidents,712,CA,California
+Model X,24487,48600,Autopilot,No Accidents,739,CA,California
+Model X,49895,49300,Autopilot,No Accidents,752,CA,California
+Model X,61874,47500,Enhanced Autopilot,Previously Repaired,719,CA,California
+Model X,57890,41200,Autopilot,No Accidents,606,IL,Illinois
+Model X,88123,44100,Autopilot,No Accidents,658,GA,Georgia
+Model X,33020,46600,Enhanced Autopilot,No Accidents,703,CA,California
+Model X,33382,46800,Autopilot,No Accidents,707,NJ,New Jersey
+Model X,45395,47100,Enhanced Autopilot,No Accidents,712,CA,California
+Model X,24487,48600,Autopilot,No Accidents,739,CA,California
+Model X,59222,48800,Autopilot,Previously Repaired,743,NJ,New Jersey
+Model X,49895,49300,Autopilot,No Accidents,752,CA,California
+Model X,18721,50800,Enhanced Autopilot,No Accidents,779,NJ,New Jersey
+Model X,41895,51700,Autopilot,No Accidents,795,VA,Virginia
+Model X,29668,52400,Autopilot,No Accidents,808,FL,Florida
+Model X,44208,56500,Autopilot,No Accidents,881,MD,Maryland
+Model X,44067,56900,Autopilot,No Accidents,889,FL,Florida
+Model X,29858,57100,Autopilot,No Accidents,892,WA,Washington
+Model X,27927,58300,Autopilot,No Accidents,914,MD,Maryland
+Model X,72859,44800,Autopilot,Previously Repaired,671,IL,Illinois
+Model X,75465,46100,Autopilot,No Accidents,694,NY,New York
+Model X,83927,47000,Autopilot,Previously Repaired,710,MD,Maryland
+Model X,52338,50600,Autopilot,No Accidents,775,MN,Minnesota
+Model X,47443,51000,Autopilot,No Accidents,782,NC,North Carolina
+Model X,47301,51000,Autopilot,No Accidents,782,CO,Colorado
+Model X,68736,51700,Full Self-Driving ,Previously Repaired,795,MD,Maryland
+Model X,39191,52500,Autopilot,Previously Repaired,809,FL,Florida
+Model X,43197,53400,Autopilot,No Accidents,826,CA,California
+Model X,54711,53400,Autopilot,No Accidents,826,IL,Illinois
+Model X,44552,54100,Autopilot,No Accidents,838,IL,Illinois
+Model X,47149,54200,Autopilot,No Accidents,840,CA,California
+Model X,33617,55200,Autopilot,No Accidents,858,CA,California
+Model X,32110,55300,Autopilot,No Accidents,860,CA,California
+Model X,25369,55800,Autopilot,No Accidents,869,MN,Minnesota
+Model X,74413,56200,Full Self-Driving ,No Accidents,876,GA,Georgia
+Model X,45792,58300,Full Self-Driving ,No Accidents,914,IL,Illinois
+Model X,26423,59800,Autopilot,No Accidents,941,FL,Florida
+Model X,33722,59800,Autopilot,No Accidents,941,CA,California
+Model X,72859,44800,Autopilot,Previously Repaired,671,IL,Illinois
+Model X,75465,46100,Autopilot,No Accidents,694,NY,New York
+Model X,83927,47000,Autopilot,Previously Repaired,710,MD,Maryland
+Model X,52338,50600,Autopilot,No Accidents,775,MN,Minnesota
+Model X,47443,51000,Autopilot,No Accidents,782,NC,North Carolina
+Model X,47301,51000,Autopilot,No Accidents,782,CO,Colorado
+Model X,68736,51700,Full Self-Driving ,Previously Repaired,795,MD,Maryland
+Model X,39191,52500,Autopilot,Previously Repaired,809,FL,Florida
+Model X,43197,53400,Autopilot,No Accidents,826,CA,California
+Model X,54711,53400,Autopilot,No Accidents,826,IL,Illinois
+Model X,44552,54100,Autopilot,No Accidents,838,IL,Illinois
+Model X,47149,54200,Autopilot,No Accidents,840,CA,California
+Model X,33617,55200,Autopilot,No Accidents,858,CA,California
+Model X,32110,55300,Autopilot,No Accidents,860,CA,California
+Model X,25369,55800,Autopilot,No Accidents,869,MN,Minnesota
+Model X,74413,56200,Full Self-Driving ,No Accidents,876,GA,Georgia
+Model X,45792,58300,Full Self-Driving ,No Accidents,914,IL,Illinois
+Model X,26423,59800,Autopilot,No Accidents,941,FL,Florida
+Model X,33722,59800,Autopilot,No Accidents,941,CA,California
+Model X,72859,44800,Autopilot,Previously Repaired,671,IL,Illinois
+Model X,75465,46100,Autopilot,No Accidents,694,NY,New York
+Model X,83927,47000,Autopilot,Previously Repaired,710,MD,Maryland
+Model X,52338,50600,Autopilot,No Accidents,775,MN,Minnesota
+Model X,47443,51000,Autopilot,No Accidents,782,NC,North Carolina
+Model X,47301,51000,Autopilot,No Accidents,782,CO,Colorado
+Model X,68736,51700,Full Self-Driving ,Previously Repaired,795,MD,Maryland
+Model X,39191,52500,Autopilot,Previously Repaired,809,FL,Florida
+Model X,43197,53400,Autopilot,No Accidents,826,CA,California
+Model X,54711,53400,Autopilot,No Accidents,826,IL,Illinois
+Model X,44552,54100,Autopilot,No Accidents,838,IL,Illinois
+Model X,47149,54200,Autopilot,No Accidents,840,CA,California
+Model X,33617,55200,Autopilot,No Accidents,858,CA,California
+Model X,32110,55300,Autopilot,No Accidents,860,CA,California
+Model X,25369,55800,Autopilot,No Accidents,869,MN,Minnesota
+Model X,74413,56200,Full Self-Driving ,No Accidents,876,GA,Georgia
+Model X,45792,58300,Full Self-Driving ,No Accidents,914,IL,Illinois
+Model X,26423,59800,Autopilot,No Accidents,941,FL,Florida
+Model X,33722,59800,Autopilot,No Accidents,941,CA,California
+Model X,72859,44800,Autopilot,Previously Repaired,671,IL,Illinois
+Model X,75465,46100,Autopilot,No Accidents,694,NY,New York
+Model X,83927,47000,Autopilot,Previously Repaired,710,MD,Maryland
+Model X,52338,50600,Autopilot,No Accidents,775,MN,Minnesota
+Model X,47443,51000,Autopilot,No Accidents,782,NC,North Carolina
+Model X,47301,51000,Autopilot,No Accidents,782,CO,Colorado
+Model X,68736,51700,Full Self-Driving ,Previously Repaired,795,MD,Maryland
+Model X,39191,52500,Autopilot,Previously Repaired,809,FL,Florida
+Model X,43197,53400,Autopilot,No Accidents,826,CA,California
+Model X,54711,53400,Autopilot,No Accidents,826,IL,Illinois
+Model X,44552,54100,Autopilot,No Accidents,838,IL,Illinois
+Model X,47149,54200,Autopilot,No Accidents,840,CA,California
+Model X,33617,55200,Autopilot,No Accidents,858,CA,California
+Model X,32110,55300,Autopilot,No Accidents,860,CA,California
+Model X,25369,55800,Autopilot,No Accidents,869,MN,Minnesota
+Model X,74413,56200,Full Self-Driving ,No Accidents,876,GA,Georgia
+Model X,45792,58300,Full Self-Driving ,No Accidents,914,IL,Illinois
+Model X,26423,59800,Autopilot,No Accidents,941,FL,Florida
+Model X,33722,59800,Autopilot,No Accidents,941,CA,California
+Model X,54711,53400,Autopilot,No Accidents,826,CA,California
+Model X,32110,55300,Autopilot,No Accidents,860,CA,California
+Model X,25369,55800,Autopilot,No Accidents,869,CA,California
+Model X,38936,60900,Full Self-Driving ,No Accidents,960,CA,California
+Model X,54711,53400,Autopilot,No Accidents,826,CA,California
+Model X,32110,55300,Autopilot,No Accidents,860,CA,California
+Model X,25369,55800,Autopilot,No Accidents,869,CA,California
+Model X,38936,60900,Full Self-Driving ,No Accidents,960,CA,California
+Model X,33617,55200,Autopilot,No Accidents,858,CA,California
+Model X,40492,55100,Autopilot,No Accidents,856,AZ,Arizona
+Model X,40492,55100,Autopilot,No Accidents,856,AZ,Arizona
+Model X,40492,55100,Autopilot,No Accidents,856,AZ,Arizona
+Model X,40492,55100,Autopilot,No Accidents,856,AZ,Arizona
+Model X,40492,55100,Autopilot,No Accidents,856,AZ,Arizona
+Model X,72032,52100,Autopilot,No Accidents,802,CA,California
+Model X,48714,54300,Autopilot,Previously Repaired,842,CA,California
+Model X,59498,57400,Full Self-Driving ,No Accidents,898,CA,California
+Model X,44705,57800,Autopilot,No Accidents,905,CA,California
+Model X,52659,58400,Full Self-Driving ,Previously Repaired,915,CA,California
+Model X,23670,62500,Autopilot,No Accidents,989,CA,California
+Model X,23216,64000,Autopilot,Previously Repaired,1016,CA,California
+Model X,40438,66100,Full Self-Driving ,No Accidents,1054,CA,California
+Model X,32527,69200,Full Self-Driving ,No Accidents,1110,CA,California
+Model X,72032,52100,Autopilot,No Accidents,802,CA,California
+Model X,48714,54300,Autopilot,Previously Repaired,842,CA,California
+Model X,59498,57400,Full Self-Driving ,No Accidents,898,CA,California
+Model X,44705,57800,Autopilot,No Accidents,905,CA,California
+Model X,52659,58400,Full Self-Driving ,Previously Repaired,915,CA,California
+Model X,23670,62500,Autopilot,No Accidents,989,CA,California
+Model X,23216,64000,Autopilot,Previously Repaired,1016,CA,California
+Model X,40438,66100,Full Self-Driving ,No Accidents,1054,CA,California
+Model X,32527,69200,Full Self-Driving ,No Accidents,1110,CA,California
+Model X,72032,52100,Autopilot,No Accidents,802,CA,California
+Model X,48714,54300,Autopilot,Previously Repaired,842,CA,California
+Model X,59498,57400,Full Self-Driving ,No Accidents,898,CA,California
+Model X,44705,57800,Autopilot,No Accidents,905,CA,California
+Model X,52659,58400,Full Self-Driving ,Previously Repaired,915,CA,California
+Model X,23670,62500,Autopilot,No Accidents,989,CA,California
+Model X,23216,64000,Autopilot,Previously Repaired,1016,CA,California
+Model X,40438,66100,Full Self-Driving ,No Accidents,1054,CA,California
+Model X,32527,69200,Full Self-Driving ,No Accidents,1110,CA,California
+Model X,39889,58800,Autopilot,No Accidents,923,CA,California
+Model X,47333,58000,Autopilot,No Accidents,908,NJ,New Jersey
+Model X,41142,58400,Autopilot,No Accidents,915,CO,Colorado
+Model X,35238,61800,Autopilot,No Accidents,977,CO,Colorado
+Model X,24158,64700,Autopilot,No Accidents,1029,MN,Minnesota
+Model X,19037,64900,Autopilot,No Accidents,1032,TN,Tennessee
+Model X,24344,65400,Autopilot,No Accidents,1041,NJ,New Jersey
+Model X,22919,70100,Autopilot,No Accidents,1126,FL,Florida
+Model X,47333,58000,Autopilot,No Accidents,908,NJ,New Jersey
+Model X,41142,58400,Autopilot,No Accidents,915,CO,Colorado
+Model X,35238,61800,Autopilot,No Accidents,977,CO,Colorado
+Model X,24158,64700,Autopilot,No Accidents,1029,MN,Minnesota
+Model X,19037,64900,Autopilot,No Accidents,1032,TN,Tennessee
+Model X,24344,65400,Autopilot,No Accidents,1041,NJ,New Jersey
+Model X,22919,70100,Autopilot,No Accidents,1126,FL,Florida
+Model X,47333,58000,Autopilot,No Accidents,908,NJ,New Jersey
+Model X,41142,58400,Autopilot,No Accidents,915,CO,Colorado
+Model X,35238,61800,Autopilot,No Accidents,977,CO,Colorado
+Model X,24158,64700,Autopilot,No Accidents,1029,MN,Minnesota
+Model X,19037,64900,Autopilot,No Accidents,1032,TN,Tennessee
+Model X,24344,65400,Autopilot,No Accidents,1041,NJ,New Jersey
+Model X,22919,70100,Autopilot,No Accidents,1126,FL,Florida
+Model X,47333,58000,Autopilot,No Accidents,908,NJ,New Jersey
+Model X,35238,61800,Autopilot,No Accidents,977,CO,Colorado
+Model X,24158,64700,Autopilot,No Accidents,1029,MN,Minnesota
+Model X,19037,64900,Autopilot,No Accidents,1032,TN,Tennessee
+Model X,41142,58400,Autopilot,No Accidents,915,CO,Colorado
+Model X,24344,65400,Autopilot,No Accidents,1041,NJ,New Jersey
+Model X,22919,70100,Autopilot,No Accidents,1126,FL,Florida
+Model X,16127,72600,Autopilot,No Accidents,1171,MD,Maryland
+Model X,6368,81600,Autopilot,No Accidents,1333,CA,California
+Model X,9406,82900,Autopilot,No Accidents,1356,TN,Tennessee
+Model X,7739,83500,Full Self-Driving ,No Accidents,1367,MA,Massachusetts
+Model X,17262,79500,Autopilot,No Accidents,1295,CA,California
+Model X,6368,81600,Autopilot,No Accidents,1333,TN,Tennessee
+Model X,17262,79500,Autopilot,No Accidents,1295,MA,Massachusetts
+Model X,16127,72600,Autopilot,No Accidents,1171,MA,Massachusetts
+Model X,17262,79500,Autopilot,No Accidents,1295,MD,Maryland
+Model X,6368,81600,Autopilot,No Accidents,1333,CA,California
+Model X,9406,82900,Autopilot,No Accidents,1356,TN,Tennessee
+Model X,17262,79500,Autopilot,No Accidents,1295,MA,Massachusetts
+Model X,17262,79500,Autopilot,No Accidents,1295,MA,Massachusetts
+Model X,16127,72600,Autopilot,No Accidents,1171,MA,Massachusetts
+Model X,17262,79500,Autopilot,No Accidents,1295,MD,Maryland
+Model X,6368,81600,Autopilot,No Accidents,1333,CA,California
+Model X,9406,82900,Autopilot,No Accidents,1356,TN,Tennessee
+Model X,9406,82900,Autopilot,No Accidents,1356,CA,California
+Model X,9406,82900,Autopilot,No Accidents,1356,CA,California
+Model X,9406,82900,Autopilot,No Accidents,1356,CA,California
+Model Y,73526,38100,Full Self-Driving ,No Accidents,604,CA,California
+Model Y,35491,39200,Autopilot,No Accidents,624,CA,California
+Model Y,29031,39200,Autopilot,No Accidents,624,CA,California
+Model Y,31205,39800,Autopilot,No Accidents,635,CA,California
+Model Y,27049,40000,Autopilot,Previously Repaired,639,CA,California
+Model Y,35247,40100,Autopilot,No Accidents,640,CA,California
+Model Y,45332,40200,Enhanced Autopilot,No Accidents,642,CA,California
+Model Y,44416,40300,Full Self-Driving ,No Accidents,644,CA,California
+Model Y,34285,40400,Autopilot,No Accidents,646,CA,California
+Model Y,20564,40600,Autopilot,No Accidents,649,CA,California
+Model Y,32545,40700,Autopilot,No Accidents,651,CA,California
+Model Y,46112,41000,Full Self-Driving ,No Accidents,656,CA,California
+Model Y,37836,41200,Enhanced Autopilot,No Accidents,660,CA,California
+Model Y,34111,41300,Enhanced Autopilot,No Accidents,662,CA,California
+Model Y,28005,41500,Autopilot,No Accidents,665,CA,California
+Model Y,23858,41500,Autopilot,No Accidents,665,CA,California
+Model Y,35584,41700,Enhanced Autopilot,No Accidents,669,CA,California
+Model Y,27837,41700,Autopilot,No Accidents,669,CA,California
+Model Y,26330,41900,Autopilot,No Accidents,673,CA,California
+Model Y,24479,41900,Autopilot,No Accidents,673,CA,California
+Model Y,33839,42000,Enhanced Autopilot,No Accidents,674,CA,California
+Model Y,25027,42000,Autopilot,No Accidents,674,CA,California
+Model Y,31370,42200,Enhanced Autopilot,No Accidents,678,CA,California
+Model Y,27426,42300,Full Self-Driving ,Previously Repaired,680,CA,California
+Model Y,31358,42400,Enhanced Autopilot,No Accidents,682,CA,California
+Model Y,23596,42400,Autopilot,No Accidents,682,CA,California
+Model Y,44958,42900,Full Self-Driving ,No Accidents,691,CA,California
+Model Y,13119,43200,Autopilot,No Accidents,696,CA,California
+Model Y,12306,43400,Autopilot,No Accidents,700,CA,California
+Model Y,32886,43600,Full Self-Driving ,No Accidents,703,CA,California
+Model Y,13807,47000,Full Self-Driving ,No Accidents,764,CA,California
+Model Y,73526,38100,Full Self-Driving ,No Accidents,604,CA,California
+Model Y,35491,39200,Autopilot,No Accidents,624,CA,California
+Model Y,29031,39200,Autopilot,No Accidents,624,CA,California
+Model Y,31205,39800,Autopilot,No Accidents,635,CA,California
+Model Y,27049,40000,Autopilot,Previously Repaired,639,CA,California
+Model Y,35247,40100,Autopilot,No Accidents,640,CA,California
+Model Y,45332,40200,Enhanced Autopilot,No Accidents,642,CA,California
+Model Y,44416,40300,Full Self-Driving ,No Accidents,644,CA,California
+Model Y,34285,40400,Autopilot,No Accidents,646,CA,California
+Model Y,20564,40600,Autopilot,No Accidents,649,CA,California
+Model Y,32545,40700,Autopilot,No Accidents,651,CA,California
+Model Y,46112,41000,Full Self-Driving ,No Accidents,656,CA,California
+Model Y,37836,41200,Enhanced Autopilot,No Accidents,660,CA,California
+Model Y,34111,41300,Enhanced Autopilot,No Accidents,662,CA,California
+Model Y,28005,41500,Autopilot,No Accidents,665,CA,California
+Model Y,23858,41500,Autopilot,No Accidents,665,CA,California
+Model Y,35584,41700,Enhanced Autopilot,No Accidents,669,CA,California
+Model Y,27837,41700,Autopilot,No Accidents,669,CA,California
+Model Y,26330,41900,Autopilot,No Accidents,673,CA,California
+Model Y,24479,41900,Autopilot,No Accidents,673,CA,California
+Model Y,33839,42000,Enhanced Autopilot,No Accidents,674,CA,California
+Model Y,25027,42000,Autopilot,No Accidents,674,CA,California
+Model Y,31370,42200,Enhanced Autopilot,No Accidents,678,CA,California
+Model Y,27426,42300,Full Self-Driving ,Previously Repaired,680,CA,California
+Model Y,31358,42400,Enhanced Autopilot,No Accidents,682,CA,California
+Model Y,23596,42400,Autopilot,No Accidents,682,CA,California
+Model Y,44958,42900,Full Self-Driving ,No Accidents,691,CA,California
+Model Y,13119,43200,Autopilot,No Accidents,696,CA,California
+Model Y,12306,43400,Autopilot,No Accidents,700,CA,California
+Model Y,32886,43600,Full Self-Driving ,No Accidents,703,CA,California
+Model Y,13807,47000,Full Self-Driving ,No Accidents,764,CA,California
+Model Y,73526,38100,Full Self-Driving ,No Accidents,604,CA,California
+Model Y,29394,38400,Autopilot,No Accidents,610,CA,California
+Model Y,35491,39200,Autopilot,No Accidents,624,CA,California
+Model Y,29031,39200,Autopilot,No Accidents,624,CA,California
+Model Y,31205,39800,Autopilot,No Accidents,635,CA,California
+Model Y,27049,40000,Autopilot,Previously Repaired,639,CA,California
+Model Y,35247,40100,Autopilot,No Accidents,640,CA,California
+Model Y,45332,40200,Enhanced Autopilot,No Accidents,642,CA,California
+Model Y,44416,40300,Full Self-Driving ,No Accidents,644,CA,California
+Model Y,34285,40400,Autopilot,No Accidents,646,CA,California
+Model Y,20564,40600,Autopilot,No Accidents,649,CA,California
+Model Y,32545,40700,Autopilot,No Accidents,651,CA,California
+Model Y,46112,41000,Full Self-Driving ,No Accidents,656,CA,California
+Model Y,37836,41200,Enhanced Autopilot,No Accidents,660,CA,California
+Model Y,34111,41300,Enhanced Autopilot,No Accidents,662,CA,California
+Model Y,28005,41500,Autopilot,No Accidents,665,CA,California
+Model Y,23858,41500,Autopilot,No Accidents,665,CA,California
+Model Y,35584,41700,Enhanced Autopilot,No Accidents,669,CA,California
+Model Y,27837,41700,Autopilot,No Accidents,669,CA,California
+Model Y,26330,41900,Autopilot,No Accidents,673,CA,California
+Model Y,24479,41900,Autopilot,No Accidents,673,CA,California
+Model Y,33839,42000,Enhanced Autopilot,No Accidents,674,CA,California
+Model Y,25027,42000,Autopilot,No Accidents,674,CA,California
+Model Y,31370,42200,Enhanced Autopilot,No Accidents,678,CA,California
+Model Y,27426,42300,Full Self-Driving ,Previously Repaired,680,CA,California
+Model Y,31358,42400,Enhanced Autopilot,No Accidents,682,CA,California
+Model Y,23596,42400,Autopilot,No Accidents,682,CA,California
+Model Y,44958,42900,Full Self-Driving ,No Accidents,691,CA,California
+Model Y,13119,43200,Autopilot,No Accidents,696,CA,California
+Model Y,12306,43400,Autopilot,No Accidents,700,CA,California
+Model Y,32886,43600,Full Self-Driving ,No Accidents,703,CA,California
+Model Y,26157,44800,Full Self-Driving ,No Accidents,725,CA,California
+Model Y,13807,47000,Full Self-Driving ,No Accidents,764,CA,California
+Model Y,29394,38400,Autopilot,No Accidents,610,CA,California
+Model Y,44416,40300,Full Self-Driving ,No Accidents,644,CA,California
+Model Y,30138,41200,Autopilot,No Accidents,660,CA,California
+Model Y,27837,41700,Autopilot,No Accidents,669,CA,California
+Model Y,25622,41800,Autopilot,No Accidents,671,CA,California
+Model Y,31358,42400,Enhanced Autopilot,No Accidents,682,CA,California
+Model Y,31815,42900,Full Self-Driving ,No Accidents,691,CA,California
+Model Y,26157,44800,Full Self-Driving ,No Accidents,725,CA,California
+Model Y,25081,42500,Autopilot,No Accidents,683,MN,Minnesota
+Model Y,13319,43000,Enhanced Autopilot,No Accidents,692,MN,Minnesota
+Model Y,23094,42300,Enhanced Autopilot,Previously Repaired,680,AZ,Arizona
+Model Y,30911,46100,Full Self-Driving ,No Accidents,748,AZ,Arizona
+Model Y,23094,42300,Enhanced Autopilot,Previously Repaired,680,AZ,Arizona
+Model Y,30911,46100,Full Self-Driving ,No Accidents,748,AZ,Arizona
+Model Y,29166,36600,Enhanced Autopilot,No Accidents,577,NY,New York
+Model Y,71384,36900,Enhanced Autopilot,No Accidents,583,MD,Maryland
+Model Y,20918,37200,Autopilot,No Accidents,588,FL,Florida
+Model Y,53756,39000,Enhanced Autopilot,No Accidents,621,CA,California
+Model Y,52639,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,55681,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,47912,39900,Enhanced Autopilot,No Accidents,637,GA,Georgia
+Model Y,37704,40000,Autopilot,No Accidents,639,NC,North Carolina
+Model Y,30772,40100,Autopilot,No Accidents,640,GA,Georgia
+Model Y,32579,40500,Autopilot,No Accidents,648,CA,California
+Model Y,16004,40600,Autopilot,Previously Repaired,649,CA,California
+Model Y,42832,40900,Enhanced Autopilot,No Accidents,655,CA,California
+Model Y,60694,41500,Full Self-Driving ,No Accidents,665,CA,California
+Model Y,38408,41500,Enhanced Autopilot,No Accidents,665,TN,Tennessee
+Model Y,40785,41900,Full Self-Driving ,No Accidents,673,MD,Maryland
+Model Y,28462,41900,Autopilot,No Accidents,673,CA,California
+Model Y,17678,42200,Autopilot,No Accidents,678,CA,California
+Model Y,40087,42200,Full Self-Driving ,Previously Repaired,678,MD,Maryland
+Model Y,27284,42200,Autopilot,No Accidents,678,CA,California
+Model Y,25105,42400,Autopilot,No Accidents,682,CA,California
+Model Y,25081,42500,Autopilot,No Accidents,683,MN,Minnesota
+Model Y,35846,42900,Enhanced Autopilot,No Accidents,691,CA,California
+Model Y,13319,43000,Enhanced Autopilot,No Accidents,692,MN,Minnesota
+Model Y,14990,43200,Autopilot,No Accidents,696,CA,California
+Model Y,24396,43400,Autopilot,No Accidents,700,CO,Colorado
+Model Y,17221,43600,Autopilot,No Accidents,703,CA,California
+Model Y,38561,43600,Full Self-Driving ,No Accidents,703,OH,Ohio
+Model Y,8893,43600,Autopilot,No Accidents,703,CA,California
+Model Y,10596,43700,Autopilot,No Accidents,705,MA,Massachusetts
+Model Y,19790,43700,Autopilot,No Accidents,705,CA,California
+Model Y,21739,44000,Enhanced Autopilot,No Accidents,710,MD,Maryland
+Model Y,9472,44100,Autopilot,No Accidents,712,GA,Georgia
+Model Y,31413,44200,Full Self-Driving ,No Accidents,714,MD,Maryland
+Model Y,27437,44300,Enhanced Autopilot,No Accidents,716,CA,California
+Model Y,33708,44400,Full Self-Driving ,No Accidents,718,CA,California
+Model Y,34855,44600,Full Self-Driving ,No Accidents,721,CA,California
+Model Y,33533,44700,Full Self-Driving ,No Accidents,723,IL,Illinois
+Model Y,13561,44900,Autopilot,No Accidents,727,CO,Colorado
+Model Y,15755,45100,Enhanced Autopilot,No Accidents,730,MD,Maryland
+Model Y,31908,45200,Full Self-Driving ,No Accidents,732,MD,Maryland
+Model Y,30571,45300,Full Self-Driving ,No Accidents,734,IL,Illinois
+Model Y,32852,45400,Full Self-Driving ,No Accidents,736,MD,Maryland
+Model Y,11527,46000,Enhanced Autopilot,No Accidents,746,MD,Maryland
+Model Y,24472,46100,Full Self-Driving ,No Accidents,748,MD,Maryland
+Model Y,14416,46300,Enhanced Autopilot,No Accidents,752,IL,Illinois
+Model Y,24064,46500,Enhanced Autopilot,No Accidents,755,MD,Maryland
+Model Y,31077,46700,Full Self-Driving ,No Accidents,759,NJ,New Jersey
+Model Y,31056,46700,Full Self-Driving ,No Accidents,759,TN,Tennessee
+Model Y,26664,40600,Autopilot,No Accidents,649,WA,Washington
+Model Y,11812,46800,Autopilot,No Accidents,761,IL,Illinois
+Model Y,25081,42500,Autopilot,No Accidents,683,MN,Minnesota
+Model Y,13319,43000,Enhanced Autopilot,No Accidents,692,MN,Minnesota
+Model Y,23094,42300,Enhanced Autopilot,Previously Repaired,680,AZ,Arizona
+Model Y,30911,46100,Full Self-Driving ,No Accidents,748,AZ,Arizona
+Model Y,29166,36600,Enhanced Autopilot,No Accidents,577,NY,New York
+Model Y,71384,36900,Enhanced Autopilot,No Accidents,583,MD,Maryland
+Model Y,20918,37200,Autopilot,No Accidents,588,FL,Florida
+Model Y,53756,39000,Enhanced Autopilot,No Accidents,621,CA,California
+Model Y,52639,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,55681,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,47912,39900,Enhanced Autopilot,No Accidents,637,GA,Georgia
+Model Y,37704,40000,Autopilot,No Accidents,639,NC,North Carolina
+Model Y,30772,40100,Autopilot,No Accidents,640,GA,Georgia
+Model Y,32579,40500,Autopilot,No Accidents,648,CA,California
+Model Y,16004,40600,Autopilot,Previously Repaired,649,CA,California
+Model Y,26664,40600,Autopilot,No Accidents,649,WA,Washington
+Model Y,42832,40900,Enhanced Autopilot,No Accidents,655,CA,California
+Model Y,60694,41500,Full Self-Driving ,No Accidents,665,CA,California
+Model Y,38408,41500,Enhanced Autopilot,No Accidents,665,TN,Tennessee
+Model Y,40785,41900,Full Self-Driving ,No Accidents,673,MD,Maryland
+Model Y,28462,41900,Autopilot,No Accidents,673,CA,California
+Model Y,17678,42200,Autopilot,No Accidents,678,CA,California
+Model Y,27284,42200,Autopilot,No Accidents,678,CA,California
+Model Y,40087,42200,Full Self-Driving ,Previously Repaired,678,MD,Maryland
+Model Y,25105,42400,Autopilot,No Accidents,682,CA,California
+Model Y,35846,42900,Enhanced Autopilot,No Accidents,691,CA,California
+Model Y,14990,43200,Autopilot,No Accidents,696,CA,California
+Model Y,24396,43400,Autopilot,No Accidents,700,CO,Colorado
+Model Y,17221,43600,Autopilot,No Accidents,703,CA,California
+Model Y,38561,43600,Full Self-Driving ,No Accidents,703,OH,Ohio
+Model Y,8893,43600,Autopilot,No Accidents,703,CA,California
+Model Y,10596,43700,Autopilot,No Accidents,705,MA,Massachusetts
+Model Y,19790,43700,Autopilot,No Accidents,705,CA,California
+Model Y,21739,44000,Enhanced Autopilot,No Accidents,710,MD,Maryland
+Model Y,9472,44100,Autopilot,No Accidents,712,GA,Georgia
+Model Y,31413,44200,Full Self-Driving ,No Accidents,714,MD,Maryland
+Model Y,27437,44300,Enhanced Autopilot,No Accidents,716,CA,California
+Model Y,33708,44400,Full Self-Driving ,No Accidents,718,CA,California
+Model Y,34855,44600,Full Self-Driving ,No Accidents,721,CA,California
+Model Y,33533,44700,Full Self-Driving ,No Accidents,723,IL,Illinois
+Model Y,13561,44900,Autopilot,No Accidents,727,CO,Colorado
+Model Y,15755,45100,Enhanced Autopilot,No Accidents,730,MD,Maryland
+Model Y,31908,45200,Full Self-Driving ,No Accidents,732,MD,Maryland
+Model Y,30571,45300,Full Self-Driving ,No Accidents,734,IL,Illinois
+Model Y,32852,45400,Full Self-Driving ,No Accidents,736,MD,Maryland
+Model Y,11527,46000,Enhanced Autopilot,No Accidents,746,MD,Maryland
+Model Y,24472,46100,Full Self-Driving ,No Accidents,748,MD,Maryland
+Model Y,14416,46300,Enhanced Autopilot,No Accidents,752,IL,Illinois
+Model Y,24064,46500,Enhanced Autopilot,No Accidents,755,MD,Maryland
+Model Y,31077,46700,Full Self-Driving ,No Accidents,759,NJ,New Jersey
+Model Y,31056,46700,Full Self-Driving ,No Accidents,759,TN,Tennessee
+Model Y,11812,46800,Autopilot,No Accidents,761,IL,Illinois
+Model Y,25081,42500,Autopilot,No Accidents,683,MN,Minnesota
+Model Y,13319,43000,Enhanced Autopilot,No Accidents,692,MN,Minnesota
+Model Y,23094,42300,Enhanced Autopilot,Previously Repaired,680,AZ,Arizona
+Model Y,30911,46100,Full Self-Driving ,No Accidents,748,AZ,Arizona
+Model Y,29166,36600,Enhanced Autopilot,No Accidents,577,NY,New York
+Model Y,71384,36900,Enhanced Autopilot,No Accidents,583,MD,Maryland
+Model Y,20918,37200,Autopilot,No Accidents,588,FL,Florida
+Model Y,53756,39000,Enhanced Autopilot,No Accidents,621,CA,California
+Model Y,52639,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,55681,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,47912,39900,Enhanced Autopilot,No Accidents,637,GA,Georgia
+Model Y,37704,40000,Autopilot,No Accidents,639,NC,North Carolina
+Model Y,30772,40100,Autopilot,No Accidents,640,GA,Georgia
+Model Y,32579,40500,Autopilot,No Accidents,648,CA,California
+Model Y,16004,40600,Autopilot,Previously Repaired,649,CA,California
+Model Y,26664,40600,Autopilot,No Accidents,649,WA,Washington
+Model Y,42832,40900,Enhanced Autopilot,No Accidents,655,CA,California
+Model Y,60694,41500,Full Self-Driving ,No Accidents,665,CA,California
+Model Y,38408,41500,Enhanced Autopilot,No Accidents,665,TN,Tennessee
+Model Y,40785,41900,Full Self-Driving ,No Accidents,673,MD,Maryland
+Model Y,28462,41900,Autopilot,No Accidents,673,CA,California
+Model Y,17678,42200,Autopilot,No Accidents,678,CA,California
+Model Y,40087,42200,Full Self-Driving ,Previously Repaired,678,MD,Maryland
+Model Y,27284,42200,Autopilot,No Accidents,678,CA,California
+Model Y,25105,42400,Autopilot,No Accidents,682,CA,California
+Model Y,35846,42900,Enhanced Autopilot,No Accidents,691,CA,California
+Model Y,14990,43200,Autopilot,No Accidents,696,CA,California
+Model Y,24396,43400,Autopilot,No Accidents,700,CO,Colorado
+Model Y,17221,43600,Autopilot,No Accidents,703,CA,California
+Model Y,38561,43600,Full Self-Driving ,No Accidents,703,OH,Ohio
+Model Y,8893,43600,Autopilot,No Accidents,703,CA,California
+Model Y,10596,43700,Autopilot,No Accidents,705,MA,Massachusetts
+Model Y,19790,43700,Autopilot,No Accidents,705,CA,California
+Model Y,21739,44000,Enhanced Autopilot,No Accidents,710,MD,Maryland
+Model Y,9472,44100,Autopilot,No Accidents,712,GA,Georgia
+Model Y,31413,44200,Full Self-Driving ,No Accidents,714,MD,Maryland
+Model Y,27437,44300,Enhanced Autopilot,No Accidents,716,CA,California
+Model Y,33708,44400,Full Self-Driving ,No Accidents,718,CA,California
+Model Y,34855,44600,Full Self-Driving ,No Accidents,721,CA,California
+Model Y,33533,44700,Full Self-Driving ,No Accidents,723,IL,Illinois
+Model Y,13561,44900,Autopilot,No Accidents,727,CO,Colorado
+Model Y,15755,45100,Enhanced Autopilot,No Accidents,730,MD,Maryland
+Model Y,31908,45200,Full Self-Driving ,No Accidents,732,MD,Maryland
+Model Y,30571,45300,Full Self-Driving ,No Accidents,734,IL,Illinois
+Model Y,32852,45400,Full Self-Driving ,No Accidents,736,MD,Maryland
+Model Y,11527,46000,Enhanced Autopilot,No Accidents,746,MD,Maryland
+Model Y,24472,46100,Full Self-Driving ,No Accidents,748,MD,Maryland
+Model Y,14416,46300,Enhanced Autopilot,No Accidents,752,IL,Illinois
+Model Y,24064,46500,Enhanced Autopilot,No Accidents,755,MD,Maryland
+Model Y,31077,46700,Full Self-Driving ,No Accidents,759,NJ,New Jersey
+Model Y,31056,46700,Full Self-Driving ,No Accidents,759,TN,Tennessee
+Model Y,11812,46800,Autopilot,No Accidents,761,IL,Illinois
+Model Y,23094,42300,Enhanced Autopilot,Previously Repaired,680,AZ,Arizona
+Model Y,30911,46100,Full Self-Driving ,No Accidents,748,AZ,Arizona
+Model Y,23094,42300,Enhanced Autopilot,Previously Repaired,680,AZ,Arizona
+Model Y,30911,46100,Full Self-Driving ,No Accidents,748,AZ,Arizona
+Model Y,29166,36600,Enhanced Autopilot,No Accidents,577,NY,New York
+Model Y,71384,36900,Enhanced Autopilot,No Accidents,583,MD,Maryland
+Model Y,20918,37200,Autopilot,No Accidents,588,FL,Florida
+Model Y,53756,39000,Enhanced Autopilot,No Accidents,621,CA,California
+Model Y,52639,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,55681,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,47912,39900,Enhanced Autopilot,No Accidents,637,GA,Georgia
+Model Y,37704,40000,Autopilot,No Accidents,639,NC,North Carolina
+Model Y,30772,40100,Autopilot,No Accidents,640,GA,Georgia
+Model Y,32579,40500,Autopilot,No Accidents,648,CA,California
+Model Y,16004,40600,Autopilot,Previously Repaired,649,CA,California
+Model Y,42832,40900,Enhanced Autopilot,No Accidents,655,CA,California
+Model Y,60694,41500,Full Self-Driving ,No Accidents,665,CA,California
+Model Y,38408,41500,Enhanced Autopilot,No Accidents,665,TN,Tennessee
+Model Y,40785,41900,Full Self-Driving ,No Accidents,673,MD,Maryland
+Model Y,28462,41900,Autopilot,No Accidents,673,CA,California
+Model Y,17678,42200,Autopilot,No Accidents,678,CA,California
+Model Y,40087,42200,Full Self-Driving ,Previously Repaired,678,MD,Maryland
+Model Y,27284,42200,Autopilot,No Accidents,678,CA,California
+Model Y,25105,42400,Autopilot,No Accidents,682,CA,California
+Model Y,25081,42500,Autopilot,No Accidents,683,MN,Minnesota
+Model Y,35846,42900,Enhanced Autopilot,No Accidents,691,CA,California
+Model Y,13319,43000,Enhanced Autopilot,No Accidents,692,MN,Minnesota
+Model Y,14990,43200,Autopilot,No Accidents,696,CA,California
+Model Y,24396,43400,Autopilot,No Accidents,700,CO,Colorado
+Model Y,17221,43600,Autopilot,No Accidents,703,CA,California
+Model Y,38561,43600,Full Self-Driving ,No Accidents,703,OH,Ohio
+Model Y,8893,43600,Autopilot,No Accidents,703,CA,California
+Model Y,10596,43700,Autopilot,No Accidents,705,MA,Massachusetts
+Model Y,19790,43700,Autopilot,No Accidents,705,CA,California
+Model Y,21739,44000,Enhanced Autopilot,No Accidents,710,MD,Maryland
+Model Y,9472,44100,Autopilot,No Accidents,712,GA,Georgia
+Model Y,31413,44200,Full Self-Driving ,No Accidents,714,MD,Maryland
+Model Y,27437,44300,Enhanced Autopilot,No Accidents,716,CA,California
+Model Y,33708,44400,Full Self-Driving ,No Accidents,718,CA,California
+Model Y,34855,44600,Full Self-Driving ,No Accidents,721,CA,California
+Model Y,33533,44700,Full Self-Driving ,No Accidents,723,IL,Illinois
+Model Y,13561,44900,Autopilot,No Accidents,727,CO,Colorado
+Model Y,15755,45100,Enhanced Autopilot,No Accidents,730,MD,Maryland
+Model Y,31908,45200,Full Self-Driving ,No Accidents,732,MD,Maryland
+Model Y,30571,45300,Full Self-Driving ,No Accidents,734,IL,Illinois
+Model Y,32852,45400,Full Self-Driving ,No Accidents,736,MD,Maryland
+Model Y,11527,46000,Enhanced Autopilot,No Accidents,746,MD,Maryland
+Model Y,24472,46100,Full Self-Driving ,No Accidents,748,MD,Maryland
+Model Y,14416,46300,Enhanced Autopilot,No Accidents,752,IL,Illinois
+Model Y,24064,46500,Enhanced Autopilot,No Accidents,755,MD,Maryland
+Model Y,31077,46700,Full Self-Driving ,No Accidents,759,NJ,New Jersey
+Model Y,31056,46700,Full Self-Driving ,No Accidents,759,TN,Tennessee
+Model Y,26664,40600,Autopilot,No Accidents,649,WA,Washington
+Model Y,11812,46800,Autopilot,No Accidents,761,IL,Illinois
+Model Y,23094,42300,Enhanced Autopilot,Previously Repaired,680,AZ,Arizona
+Model Y,30911,46100,Full Self-Driving ,No Accidents,748,AZ,Arizona
+Model Y,29166,36600,Enhanced Autopilot,No Accidents,577,NY,New York
+Model Y,71384,36900,Enhanced Autopilot,No Accidents,583,MD,Maryland
+Model Y,20918,37200,Autopilot,No Accidents,588,FL,Florida
+Model Y,53756,39000,Enhanced Autopilot,No Accidents,621,CA,California
+Model Y,52639,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,55681,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,47912,39900,Enhanced Autopilot,No Accidents,637,GA,Georgia
+Model Y,37704,40000,Autopilot,No Accidents,639,NC,North Carolina
+Model Y,30772,40100,Autopilot,No Accidents,640,GA,Georgia
+Model Y,32579,40500,Autopilot,No Accidents,648,CA,California
+Model Y,16004,40600,Autopilot,Previously Repaired,649,CA,California
+Model Y,42832,40900,Enhanced Autopilot,No Accidents,655,CA,California
+Model Y,60694,41500,Full Self-Driving ,No Accidents,665,CA,California
+Model Y,38408,41500,Enhanced Autopilot,No Accidents,665,TN,Tennessee
+Model Y,40785,41900,Full Self-Driving ,No Accidents,673,MD,Maryland
+Model Y,28462,41900,Autopilot,No Accidents,673,CA,California
+Model Y,17678,42200,Autopilot,No Accidents,678,CA,California
+Model Y,40087,42200,Full Self-Driving ,Previously Repaired,678,MD,Maryland
+Model Y,27284,42200,Autopilot,No Accidents,678,CA,California
+Model Y,25105,42400,Autopilot,No Accidents,682,CA,California
+Model Y,25081,42500,Autopilot,No Accidents,683,MN,Minnesota
+Model Y,35846,42900,Enhanced Autopilot,No Accidents,691,CA,California
+Model Y,13319,43000,Enhanced Autopilot,No Accidents,692,MN,Minnesota
+Model Y,14990,43200,Autopilot,No Accidents,696,CA,California
+Model Y,24396,43400,Autopilot,No Accidents,700,CO,Colorado
+Model Y,17221,43600,Autopilot,No Accidents,703,CA,California
+Model Y,38561,43600,Full Self-Driving ,No Accidents,703,OH,Ohio
+Model Y,8893,43600,Autopilot,No Accidents,703,CA,California
+Model Y,10596,43700,Autopilot,No Accidents,705,MA,Massachusetts
+Model Y,19790,43700,Autopilot,No Accidents,705,CA,California
+Model Y,21739,44000,Enhanced Autopilot,No Accidents,710,MD,Maryland
+Model Y,9472,44100,Autopilot,No Accidents,712,GA,Georgia
+Model Y,31413,44200,Full Self-Driving ,No Accidents,714,MD,Maryland
+Model Y,27437,44300,Enhanced Autopilot,No Accidents,716,CA,California
+Model Y,33708,44400,Full Self-Driving ,No Accidents,718,CA,California
+Model Y,34855,44600,Full Self-Driving ,No Accidents,721,CA,California
+Model Y,33533,44700,Full Self-Driving ,No Accidents,723,IL,Illinois
+Model Y,13561,44900,Autopilot,No Accidents,727,CO,Colorado
+Model Y,15755,45100,Enhanced Autopilot,No Accidents,730,MD,Maryland
+Model Y,31908,45200,Full Self-Driving ,No Accidents,732,MD,Maryland
+Model Y,30571,45300,Full Self-Driving ,No Accidents,734,IL,Illinois
+Model Y,32852,45400,Full Self-Driving ,No Accidents,736,MD,Maryland
+Model Y,11527,46000,Enhanced Autopilot,No Accidents,746,MD,Maryland
+Model Y,24472,46100,Full Self-Driving ,No Accidents,748,MD,Maryland
+Model Y,14416,46300,Enhanced Autopilot,No Accidents,752,IL,Illinois
+Model Y,24064,46500,Enhanced Autopilot,No Accidents,755,MD,Maryland
+Model Y,31077,46700,Full Self-Driving ,No Accidents,759,NJ,New Jersey
+Model Y,31056,46700,Full Self-Driving ,No Accidents,759,TN,Tennessee
+Model Y,26664,40600,Autopilot,No Accidents,649,WA,Washington
+Model Y,11812,46800,Autopilot,No Accidents,761,IL,Illinois
+Model Y,53756,39000,Enhanced Autopilot,No Accidents,621,CA,California
+Model Y,52639,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,55681,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,32579,40500,Autopilot,No Accidents,648,CA,California
+Model Y,42832,40900,Enhanced Autopilot,No Accidents,655,CA,California
+Model Y,60694,41500,Full Self-Driving ,No Accidents,665,CA,California
+Model Y,28462,41900,Autopilot,No Accidents,673,CA,California
+Model Y,17678,42200,Autopilot,No Accidents,678,CA,California
+Model Y,27284,42200,Autopilot,No Accidents,678,CA,California
+Model Y,25105,42400,Autopilot,No Accidents,682,CA,California
+Model Y,35846,42900,Enhanced Autopilot,No Accidents,691,CA,California
+Model Y,14990,43200,Autopilot,No Accidents,696,CA,California
+Model Y,17221,43600,Autopilot,No Accidents,703,CA,California
+Model Y,8893,43600,Autopilot,No Accidents,703,CA,California
+Model Y,19790,43700,Autopilot,No Accidents,705,CA,California
+Model Y,27437,44300,Enhanced Autopilot,No Accidents,716,CA,California
+Model Y,33708,44400,Full Self-Driving ,No Accidents,718,CA,California
+Model Y,13320,47100,Enhanced Autopilot,No Accidents,766,CA,California
+Model Y,10760,48800,Enhanced Autopilot,No Accidents,797,CA,California
+Model Y,23580,49100,Full Self-Driving ,No Accidents,802,CA,California
+Model Y,20112,49400,Full Self-Driving ,No Accidents,808,CA,California
+Model Y,25081,42500,Autopilot,No Accidents,683,MN,Minnesota
+Model Y,13319,43000,Enhanced Autopilot,No Accidents,692,MN,Minnesota
+Model Y,53756,39000,Enhanced Autopilot,No Accidents,621,CA,California
+Model Y,52639,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,55681,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,32579,40500,Autopilot,No Accidents,648,CA,California
+Model Y,42832,40900,Enhanced Autopilot,No Accidents,655,CA,California
+Model Y,60694,41500,Full Self-Driving ,No Accidents,665,CA,California
+Model Y,28462,41900,Autopilot,No Accidents,673,CA,California
+Model Y,17678,42200,Autopilot,No Accidents,678,CA,California
+Model Y,27284,42200,Autopilot,No Accidents,678,CA,California
+Model Y,25105,42400,Autopilot,No Accidents,682,CA,California
+Model Y,35846,42900,Enhanced Autopilot,No Accidents,691,CA,California
+Model Y,14990,43200,Autopilot,No Accidents,696,CA,California
+Model Y,17221,43600,Autopilot,No Accidents,703,CA,California
+Model Y,8893,43600,Autopilot,No Accidents,703,CA,California
+Model Y,19790,43700,Autopilot,No Accidents,705,CA,California
+Model Y,27437,44300,Enhanced Autopilot,No Accidents,716,CA,California
+Model Y,33708,44400,Full Self-Driving ,No Accidents,718,CA,California
+Model Y,13320,47100,Enhanced Autopilot,No Accidents,766,CA,California
+Model Y,10760,48800,Enhanced Autopilot,No Accidents,797,CA,California
+Model Y,23580,49100,Full Self-Driving ,No Accidents,802,CA,California
+Model Y,20112,49400,Full Self-Driving ,No Accidents,808,CA,California
+Model Y,29166,36600,Enhanced Autopilot,No Accidents,577,NY,New York
+Model Y,71384,36900,Enhanced Autopilot,No Accidents,583,MD,Maryland
+Model Y,20918,37200,Autopilot,No Accidents,588,FL,Florida
+Model Y,47912,39900,Enhanced Autopilot,No Accidents,637,GA,Georgia
+Model Y,37704,40000,Autopilot,No Accidents,639,NC,North Carolina
+Model Y,30772,40100,Autopilot,No Accidents,640,GA,Georgia
+Model Y,16004,40600,Autopilot,Previously Repaired,649,CA,California
+Model Y,26664,40600,Autopilot,No Accidents,649,WA,Washington
+Model Y,38408,41500,Enhanced Autopilot,No Accidents,665,TN,Tennessee
+Model Y,40785,41900,Full Self-Driving ,No Accidents,673,MD,Maryland
+Model Y,40087,42200,Full Self-Driving ,Previously Repaired,678,MD,Maryland
+Model Y,23094,42300,Enhanced Autopilot,Previously Repaired,680,AZ,Arizona
+Model Y,24396,43400,Autopilot,No Accidents,700,CO,Colorado
+Model Y,38561,43600,Full Self-Driving ,No Accidents,703,OH,Ohio
+Model Y,10596,43700,Autopilot,No Accidents,705,MA,Massachusetts
+Model Y,21739,44000,Enhanced Autopilot,No Accidents,710,MD,Maryland
+Model Y,9472,44100,Autopilot,No Accidents,712,GA,Georgia
+Model Y,31413,44200,Full Self-Driving ,No Accidents,714,MD,Maryland
+Model Y,34855,44600,Full Self-Driving ,No Accidents,721,CA,California
+Model Y,33533,44700,Full Self-Driving ,No Accidents,723,IL,Illinois
+Model Y,13561,44900,Autopilot,No Accidents,727,CO,Colorado
+Model Y,15755,45100,Enhanced Autopilot,No Accidents,730,MD,Maryland
+Model Y,31908,45200,Full Self-Driving ,No Accidents,732,MD,Maryland
+Model Y,30571,45300,Full Self-Driving ,No Accidents,734,IL,Illinois
+Model Y,32852,45400,Full Self-Driving ,No Accidents,736,MD,Maryland
+Model Y,11527,46000,Enhanced Autopilot,No Accidents,746,MD,Maryland
+Model Y,24472,46100,Full Self-Driving ,No Accidents,748,MD,Maryland
+Model Y,30911,46100,Full Self-Driving ,No Accidents,748,AZ,Arizona
+Model Y,14416,46300,Enhanced Autopilot,No Accidents,752,IL,Illinois
+Model Y,24064,46500,Enhanced Autopilot,No Accidents,755,MD,Maryland
+Model Y,31077,46700,Full Self-Driving ,No Accidents,759,NJ,New Jersey
+Model Y,31056,46700,Full Self-Driving ,No Accidents,759,TN,Tennessee
+Model Y,11812,46800,Autopilot,No Accidents,761,IL,Illinois
+Model Y,12157,47100,Enhanced Autopilot,No Accidents,766,OR,Oregon
+Model Y,22568,47700,Full Self-Driving ,No Accidents,777,MD,Maryland
+Model Y,15553,47700,Full Self-Driving ,No Accidents,777,PA,Pennsylvania
+Model Y,12277,48200,Enhanced Autopilot,No Accidents,786,MD,Maryland
+Model Y,10628,48600,Enhanced Autopilot,No Accidents,793,WA,Washington
+Model Y,4004,49200,Enhanced Autopilot,No Accidents,804,NJ,New Jersey
+Model Y,8312,49300,Full Self-Driving ,No Accidents,806,CA,California
+Model Y,20522,49400,Full Self-Driving ,No Accidents,808,CA,California
+Model Y,20043,49700,Full Self-Driving ,No Accidents,813,MD,Maryland
+Model Y,10234,49800,Full Self-Driving ,No Accidents,815,FL,Florida
+Model Y,25081,42500,Autopilot,No Accidents,683,MN,Minnesota
+Model Y,13319,43000,Enhanced Autopilot,No Accidents,692,MN,Minnesota
+Model Y,53756,39000,Enhanced Autopilot,No Accidents,621,CA,California
+Model Y,52639,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,55681,39300,Enhanced Autopilot,No Accidents,626,CA,California
+Model Y,32579,40500,Autopilot,No Accidents,648,CA,California
+Model Y,16004,40600,Autopilot,Previously Repaired,649,CA,California
+Model Y,42832,40900,Enhanced Autopilot,No Accidents,655,CA,California
+Model Y,60694,41500,Full Self-Driving ,No Accidents,665,CA,California
+Model Y,28462,41900,Autopilot,No Accidents,673,CA,California
+Model Y,17678,42200,Autopilot,No Accidents,678,CA,California
+Model Y,27284,42200,Autopilot,No Accidents,678,CA,California
+Model Y,25105,42400,Autopilot,No Accidents,682,CA,California
+Model Y,35846,42900,Enhanced Autopilot,No Accidents,691,CA,California
+Model Y,14990,43200,Autopilot,No Accidents,696,CA,California
+Model Y,17221,43600,Autopilot,No Accidents,703,CA,California
+Model Y,8893,43600,Autopilot,No Accidents,703,CA,California
+Model Y,19790,43700,Autopilot,No Accidents,705,CA,California
+Model Y,27437,44300,Enhanced Autopilot,No Accidents,716,CA,California
+Model Y,33708,44400,Full Self-Driving ,No Accidents,718,CA,California
+Model Y,13320,47100,Enhanced Autopilot,No Accidents,766,CA,California
+Model Y,10760,48800,Enhanced Autopilot,No Accidents,797,CA,California
+Model Y,23580,49100,Full Self-Driving ,No Accidents,802,CA,California
+Model Y,8312,49300,Full Self-Driving ,No Accidents,806,CA,California
+Model Y,20522,49400,Full Self-Driving ,No Accidents,808,CA,California
+Model Y,20112,49400,Full Self-Driving ,No Accidents,808,CA,California
+Model Y,29166,36600,Enhanced Autopilot,No Accidents,577,NY,New York
+Model Y,71384,36900,Enhanced Autopilot,No Accidents,583,MD,Maryland
+Model Y,20918,37200,Autopilot,No Accidents,588,FL,Florida
+Model Y,47912,39900,Enhanced Autopilot,No Accidents,637,GA,Georgia
+Model Y,37704,40000,Autopilot,No Accidents,639,NC,North Carolina
+Model Y,30772,40100,Autopilot,No Accidents,640,GA,Georgia
+Model Y,26664,40600,Autopilot,No Accidents,649,WA,Washington
+Model Y,38408,41500,Enhanced Autopilot,No Accidents,665,TN,Tennessee
+Model Y,40785,41900,Full Self-Driving ,No Accidents,673,MD,Maryland
+Model Y,40087,42200,Full Self-Driving ,Previously Repaired,678,MD,Maryland
+Model Y,23094,42300,Enhanced Autopilot,Previously Repaired,680,AZ,Arizona
+Model Y,24396,43400,Autopilot,No Accidents,700,CO,Colorado
+Model Y,38561,43600,Full Self-Driving ,No Accidents,703,OH,Ohio
+Model Y,10596,43700,Autopilot,No Accidents,705,MA,Massachusetts
+Model Y,21739,44000,Enhanced Autopilot,No Accidents,710,MD,Maryland
+Model Y,9472,44100,Autopilot,No Accidents,712,GA,Georgia
+Model Y,31413,44200,Full Self-Driving ,No Accidents,714,MD,Maryland
+Model Y,34855,44600,Full Self-Driving ,No Accidents,721,CA,California
+Model Y,33533,44700,Full Self-Driving ,No Accidents,723,IL,Illinois
+Model Y,13561,44900,Autopilot,No Accidents,727,CO,Colorado
+Model Y,15755,45100,Enhanced Autopilot,No Accidents,730,MD,Maryland
+Model Y,31908,45200,Full Self-Driving ,No Accidents,732,MD,Maryland
+Model Y,30571,45300,Full Self-Driving ,No Accidents,734,IL,Illinois
+Model Y,32852,45400,Full Self-Driving ,No Accidents,736,MD,Maryland
+Model Y,11527,46000,Enhanced Autopilot,No Accidents,746,MD,Maryland
+Model Y,24472,46100,Full Self-Driving ,No Accidents,748,MD,Maryland
+Model Y,30911,46100,Full Self-Driving ,No Accidents,748,AZ,Arizona
+Model Y,14416,46300,Enhanced Autopilot,No Accidents,752,IL,Illinois
+Model Y,24064,46500,Enhanced Autopilot,No Accidents,755,MD,Maryland
+Model Y,31077,46700,Full Self-Driving ,No Accidents,759,NJ,New Jersey
+Model Y,31056,46700,Full Self-Driving ,No Accidents,759,TN,Tennessee
+Model Y,11812,46800,Autopilot,No Accidents,761,IL,Illinois
+Model Y,12157,47100,Enhanced Autopilot,No Accidents,766,OR,Oregon
+Model Y,22568,47700,Full Self-Driving ,No Accidents,777,MD,Maryland
+Model Y,15553,47700,Full Self-Driving ,No Accidents,777,PA,Pennsylvania
+Model Y,12277,48200,Enhanced Autopilot,No Accidents,786,MD,Maryland
+Model Y,10628,48600,Enhanced Autopilot,No Accidents,793,WA,Washington
+Model Y,4004,49200,Enhanced Autopilot,No Accidents,804,NJ,New Jersey
+Model Y,20043,49700,Full Self-Driving ,No Accidents,813,MD,Maryland
+Model Y,10234,49800,Full Self-Driving ,No Accidents,815,FL,Florida
+Model Y,16004,40600,Autopilot,Previously Repaired,649,CA,California
+Model Y,33708,44400,Full Self-Driving ,No Accidents,718,CA,California
+Model Y,34855,44600,Full Self-Driving ,No Accidents,721,CA,California
+Model Y,8312,49300,Full Self-Driving ,No Accidents,806,CA,California
+Model Y,20522,49400,Full Self-Driving ,No Accidents,808,CA,California
+Model Y,18065,47400,Enhanced Autopilot,No Accidents,772,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,MN,Minnesota
+Model Y,5430,49200,Enhanced Autopilot,No Accidents,804,NC,North Carolina
+Model Y,1409,49200,Autopilot,No Accidents,804,MD,Maryland
+Model Y,28591,49900,Full Self-Driving ,No Accidents,817,GA,Georgia
+Model Y,17791,50600,Full Self-Driving ,No Accidents,829,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model Y,18065,47400,Enhanced Autopilot,No Accidents,772,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,MN,Minnesota
+Model Y,5430,49200,Enhanced Autopilot,No Accidents,804,NC,North Carolina
+Model Y,1409,49200,Autopilot,No Accidents,804,MD,Maryland
+Model Y,28591,49900,Full Self-Driving ,No Accidents,817,GA,Georgia
+Model Y,17791,50600,Full Self-Driving ,No Accidents,829,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model Y,18065,47400,Enhanced Autopilot,No Accidents,772,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,MN,Minnesota
+Model Y,5430,49200,Enhanced Autopilot,No Accidents,804,NC,North Carolina
+Model Y,1409,49200,Autopilot,No Accidents,804,MD,Maryland
+Model Y,28591,49900,Full Self-Driving ,No Accidents,817,GA,Georgia
+Model Y,17791,50600,Full Self-Driving ,No Accidents,829,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model Y,18065,47400,Enhanced Autopilot,No Accidents,772,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,MN,Minnesota
+Model Y,5430,49200,Enhanced Autopilot,No Accidents,804,NC,North Carolina
+Model Y,1409,49200,Autopilot,No Accidents,804,MD,Maryland
+Model Y,28591,49900,Full Self-Driving ,No Accidents,817,GA,Georgia
+Model Y,17791,50600,Full Self-Driving ,No Accidents,829,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model Y,18065,47400,Enhanced Autopilot,No Accidents,772,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,MN,Minnesota
+Model Y,5430,49200,Enhanced Autopilot,No Accidents,804,NC,North Carolina
+Model Y,1409,49200,Autopilot,No Accidents,804,MD,Maryland
+Model Y,28591,49900,Full Self-Driving ,No Accidents,817,GA,Georgia
+Model Y,17791,50600,Full Self-Driving ,No Accidents,829,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model Y,18065,47400,Enhanced Autopilot,No Accidents,772,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,MN,Minnesota
+Model Y,5430,49200,Enhanced Autopilot,No Accidents,804,NC,North Carolina
+Model Y,1409,49200,Autopilot,No Accidents,804,MD,Maryland
+Model Y,28591,49900,Full Self-Driving ,No Accidents,817,GA,Georgia
+Model Y,17791,50600,Full Self-Driving ,No Accidents,829,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model Y,13396,52100,Full Self-Driving ,No Accidents,856,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model Y,13396,52100,Full Self-Driving ,No Accidents,856,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model Y,13396,52100,Full Self-Driving ,No Accidents,856,CA,California
+Model Y,18065,47400,Enhanced Autopilot,No Accidents,772,MN,Minnesota
+Model Y,5430,49200,Enhanced Autopilot,No Accidents,804,NC,North Carolina
+Model Y,1409,49200,Autopilot,No Accidents,804,MD,Maryland
+Model Y,28591,49900,Full Self-Driving ,No Accidents,817,GA,Georgia
+Model Y,18065,47400,Enhanced Autopilot,No Accidents,772,CA,California
+Model Y,8134,48300,Enhanced Autopilot,No Accidents,788,MN,Minnesota
+Model Y,5430,49200,Enhanced Autopilot,No Accidents,804,NC,North Carolina
+Model Y,1409,49200,Autopilot,No Accidents,804,MD,Maryland
+Model Y,28591,49900,Full Self-Driving ,No Accidents,817,GA,Georgia
+Model Y,17791,50600,Full Self-Driving ,No Accidents,829,CA,California
+Model Y,14006,52000,Enhanced Autopilot,No Accidents,854,CA,California
+Model 3,40079,32500,Full Self-Driving ,No Accidents,504,AZ,Arizona
+Model 3,66484,26900,Enhanced Autopilot,No Accidents,403,NJ,New Jersey
+Model 3,69055,27200,Enhanced Autopilot,No Accidents,408,NJ,New Jersey
+Model 3,74325,27700,Full Self-Driving ,No Accidents,417,NC,North Carolina
+Model 3,55046,28000,Enhanced Autopilot,No Accidents,423,CO,Colorado
+Model 3,73673,28200,Full Self-Driving ,No Accidents,426,CA,California
+Model 3,94501,28300,Full Self-Driving ,No Accidents,428,MN,Minnesota
+Model 3,60169,28700,Autopilot,No Accidents,435,MN,Minnesota
+Model 3,36915,28800,Full Self-Driving ,Previously Repaired,437,NC,North Carolina
+Model 3,28835,28900,Enhanced Autopilot,No Accidents,439,CA,California
+Model 3,44515,29000,Autopilot,No Accidents,441,WA,Washington
+Model 3,46665,29100,Autopilot,No Accidents,442,CA,California
+Model 3,72880,29400,Enhanced Autopilot,No Accidents,448,WA,Washington
+Model 3,35241,29800,Full Self-Driving ,No Accidents,455,GA,Georgia
+Model 3,28657,29900,Autopilot,No Accidents,457,CA,California
+Model 3,23289,29900,Enhanced Autopilot,No Accidents,457,IL,Illinois
+Model 3,37771,30100,Enhanced Autopilot,No Accidents,460,FL,Florida
+Model 3,48601,30300,Full Self-Driving ,No Accidents,464,MD,Maryland
+Model 3,46632,30800,Full Self-Driving ,No Accidents,473,MD,Maryland
+Model 3,67989,30900,Full Self-Driving ,No Accidents,475,MD,Maryland
+Model 3,39546,31000,Enhanced Autopilot,No Accidents,477,CA,California
+Model 3,34364,31600,Full Self-Driving ,No Accidents,487,FL,Florida
+Model 3,33637,32000,Full Self-Driving ,Previously Repaired,495,FL,Florida
+Model 3,41845,32100,Full Self-Driving ,No Accidents,496,MD,Maryland
+Model 3,32681,32100,Enhanced Autopilot,No Accidents,496,MD,Maryland
+Model 3,25926,32800,Enhanced Autopilot,No Accidents,509,MA,Massachusetts
+Model 3,38106,32800,Enhanced Autopilot,No Accidents,509,MD,Maryland
+Model 3,53423,33100,Full Self-Driving ,No Accidents,514,NC,North Carolina
+Model 3,35795,33200,Full Self-Driving ,Previously Repaired,516,CA,California
+Model 3,38477,33300,Full Self-Driving ,No Accidents,518,PA,Pennsylvania
+Model 3,13316,33400,Enhanced Autopilot,No Accidents,520,GA,Georgia
+Model 3,34671,33700,Enhanced Autopilot,No Accidents,525,WA,Washington
+Model 3,40506,34000,Full Self-Driving ,No Accidents,531,MN,Minnesota
+Model 3,39561,34100,Full Self-Driving ,No Accidents,532,NJ,New Jersey
+Model 3,39919,34300,Full Self-Driving ,No Accidents,536,NJ,New Jersey
+Model 3,31732,34400,Full Self-Driving ,No Accidents,538,WA,Washington
+Model 3,25159,34400,Full Self-Driving ,No Accidents,538,CA,California
+Model 3,29779,34400,Full Self-Driving ,Previously Repaired,538,IL,Illinois
+Model 3,24899,34600,Enhanced Autopilot,No Accidents,541,CA,California
+Model 3,28169,34800,Enhanced Autopilot,No Accidents,545,MD,Maryland
+Model 3,40079,32500,Full Self-Driving ,No Accidents,504,AZ,Arizona
+Model 3,66484,26900,Enhanced Autopilot,No Accidents,403,NJ,New Jersey
+Model 3,69055,27200,Enhanced Autopilot,No Accidents,408,NJ,New Jersey
+Model 3,74325,27700,Full Self-Driving ,No Accidents,417,NC,North Carolina
+Model 3,55046,28000,Enhanced Autopilot,No Accidents,423,CO,Colorado
+Model 3,73673,28200,Full Self-Driving ,No Accidents,426,CA,California
+Model 3,94501,28300,Full Self-Driving ,No Accidents,428,MN,Minnesota
+Model 3,60169,28700,Autopilot,No Accidents,435,MN,Minnesota
+Model 3,36915,28800,Full Self-Driving ,Previously Repaired,437,NC,North Carolina
+Model 3,28835,28900,Enhanced Autopilot,No Accidents,439,CA,California
+Model 3,44515,29000,Autopilot,No Accidents,441,CA,California
+Model 3,72880,29400,Enhanced Autopilot,No Accidents,448,GA,Georgia
+Model 3,28657,29900,Autopilot,No Accidents,457,CA,California
+Model 3,23289,29900,Enhanced Autopilot,No Accidents,457,IL,Illinois
+Model 3,37771,30100,Enhanced Autopilot,No Accidents,460,FL,Florida
+Model 3,48601,30300,Full Self-Driving ,No Accidents,464,MD,Maryland
+Model 3,46632,30800,Full Self-Driving ,No Accidents,473,MD,Maryland
+Model 3,67989,30900,Full Self-Driving ,No Accidents,475,MD,Maryland
+Model 3,39546,31000,Enhanced Autopilot,No Accidents,477,CA,California
+Model 3,34364,31600,Full Self-Driving ,No Accidents,487,FL,Florida
+Model 3,33637,32000,Full Self-Driving ,Previously Repaired,495,FL,Florida
+Model 3,41845,32100,Full Self-Driving ,No Accidents,496,AZ,Arizona
+Model 3,32681,32100,Enhanced Autopilot,No Accidents,496,MD,Maryland
+Model 3,40079,32500,Full Self-Driving ,No Accidents,504,MD,Maryland
+Model 3,25926,32800,Enhanced Autopilot,No Accidents,509,MA,Massachusetts
+Model 3,38106,32800,Enhanced Autopilot,No Accidents,509,MD,Maryland
+Model 3,53423,33100,Full Self-Driving ,No Accidents,514,NC,North Carolina
+Model 3,35795,33200,Full Self-Driving ,Previously Repaired,516,CA,California
+Model 3,38477,33300,Full Self-Driving ,No Accidents,518,PA,Pennsylvania
+Model 3,13316,33400,Enhanced Autopilot,No Accidents,520,GA,Georgia
+Model 3,34671,33700,Enhanced Autopilot,No Accidents,525,MN,Minnesota
+Model 3,40506,34000,Full Self-Driving ,No Accidents,531,NJ,New Jersey
+Model 3,39919,34300,Full Self-Driving ,No Accidents,536,NJ,New Jersey
+Model 3,25159,34400,Full Self-Driving ,No Accidents,538,CA,California
+Model 3,31732,34400,Full Self-Driving ,No Accidents,538,IL,Illinois
+Model 3,24899,34600,Enhanced Autopilot,No Accidents,541,CA,California
+Model 3,28169,34800,Enhanced Autopilot,No Accidents,545,MD,Maryland
+Model 3,24138,35200,Enhanced Autopilot,No Accidents,552,NJ,New Jersey
+Model 3,15867,37300,Full Self-Driving ,No Accidents,590,NJ,New Jersey
+Model 3,40079,32500,Full Self-Driving ,No Accidents,504,AZ,Arizona
+Model 3,40079,32500,Full Self-Driving ,No Accidents,504,AZ,Arizona
+Model 3,40079,32500,Full Self-Driving ,No Accidents,504,AZ,Arizona
+Model 3,40079,32500,Full Self-Driving ,No Accidents,504,AZ,Arizona
+Model 3,40079,32500,Full Self-Driving ,No Accidents,504,AZ,Arizona
+Model 3,73673,28200,Full Self-Driving ,No Accidents,426,CA,California
+Model 3,44515,29000,Autopilot,No Accidents,441,CA,California
+Model 3,23289,29900,Enhanced Autopilot,No Accidents,457,CA,California
+Model 3,13316,33400,Enhanced Autopilot,No Accidents,520,CA,California
+Model 3,24138,35200,Enhanced Autopilot,No Accidents,552,CA,California
+Model 3,73673,28200,Full Self-Driving ,No Accidents,426,CA,California
+Model 3,44515,29000,Autopilot,No Accidents,441,CA,California
+Model 3,23289,29900,Enhanced Autopilot,No Accidents,457,CA,California
+Model 3,33637,32000,Full Self-Driving ,Previously Repaired,495,CA,California
+Model 3,13316,33400,Enhanced Autopilot,No Accidents,520,CA,California
+Model 3,24138,35200,Enhanced Autopilot,No Accidents,552,CA,California
+Model 3,66484,26900,Enhanced Autopilot,No Accidents,403,NJ,New Jersey
+Model 3,69055,27200,Enhanced Autopilot,No Accidents,408,NJ,New Jersey
+Model 3,74325,27700,Full Self-Driving ,No Accidents,417,NC,North Carolina
+Model 3,55046,28000,Enhanced Autopilot,No Accidents,423,CO,Colorado
+Model 3,94501,28300,Full Self-Driving ,No Accidents,428,MN,Minnesota
+Model 3,60169,28700,Autopilot,No Accidents,435,MN,Minnesota
+Model 3,36915,28800,Full Self-Driving ,Previously Repaired,437,NC,North Carolina
+Model 3,28835,28900,Enhanced Autopilot,No Accidents,439,WA,Washington
+Model 3,46665,29100,Autopilot,No Accidents,442,CA,California
+Model 3,72880,29400,Enhanced Autopilot,No Accidents,448,WA,Washington
+Model 3,35241,29800,Full Self-Driving ,No Accidents,455,GA,Georgia
+Model 3,28657,29900,Autopilot,No Accidents,457,IL,Illinois
+Model 3,37771,30100,Enhanced Autopilot,No Accidents,460,FL,Florida
+Model 3,48601,30300,Full Self-Driving ,No Accidents,464,MD,Maryland
+Model 3,46632,30800,Full Self-Driving ,No Accidents,473,MD,Maryland
+Model 3,67989,30900,Full Self-Driving ,No Accidents,475,MD,Maryland
+Model 3,39546,31000,Enhanced Autopilot,No Accidents,477,FL,Florida
+Model 3,34364,31600,Full Self-Driving ,No Accidents,487,FL,Florida
+Model 3,41845,32100,Full Self-Driving ,No Accidents,496,AZ,Arizona
+Model 3,32681,32100,Enhanced Autopilot,No Accidents,496,MD,Maryland
+Model 3,40079,32500,Full Self-Driving ,No Accidents,504,MD,Maryland
+Model 3,25926,32800,Enhanced Autopilot,No Accidents,509,MA,Massachusetts
+Model 3,38106,32800,Enhanced Autopilot,No Accidents,509,MD,Maryland
+Model 3,53423,33100,Full Self-Driving ,No Accidents,514,NC,North Carolina
+Model 3,35795,33200,Full Self-Driving ,Previously Repaired,516,PA,Pennsylvania
+Model 3,38477,33300,Full Self-Driving ,No Accidents,518,GA,Georgia
+Model 3,34671,33700,Enhanced Autopilot,No Accidents,525,WA,Washington
+Model 3,40506,34000,Full Self-Driving ,No Accidents,531,MN,Minnesota
+Model 3,39561,34100,Full Self-Driving ,No Accidents,532,NJ,New Jersey
+Model 3,39919,34300,Full Self-Driving ,No Accidents,536,NJ,New Jersey
+Model 3,31732,34400,Full Self-Driving ,No Accidents,538,WA,Washington
+Model 3,25159,34400,Full Self-Driving ,No Accidents,538,CA,California
+Model 3,29779,34400,Full Self-Driving ,Previously Repaired,538,IL,Illinois
+Model 3,24899,34600,Enhanced Autopilot,No Accidents,541,MD,Maryland
+Model 3,44515,29000,Autopilot,No Accidents,441,CA,California
+Model 3,72880,29400,Enhanced Autopilot,No Accidents,448,CA,California
+Model 3,33637,32000,Full Self-Driving ,Previously Repaired,495,CA,California
+Model 3,24899,34600,Enhanced Autopilot,No Accidents,541,CA,California
+Model 3,29414,32700,Autopilot,No Accidents,507,AZ,Arizona
+Model 3,33917,37800,Full Self-Driving ,No Accidents,599,AZ,Arizona
+Model 3,67663,26500,Enhanced Autopilot,No Accidents,396,CA,California
+Model 3,79114,26700,Enhanced Autopilot,No Accidents,399,MN,Minnesota
+Model 3,48265,27200,Enhanced Autopilot,No Accidents,408,MD,Maryland
+Model 3,29902,28200,Autopilot,No Accidents,426,WA,Washington
+Model 3,45398,28800,Enhanced Autopilot,No Accidents,437,MD,Maryland
+Model 3,22406,29000,Enhanced Autopilot,Previously Repaired,441,MD,Maryland
+Model 3,55210,29000,Enhanced Autopilot,No Accidents,441,TN,Tennessee
+Model 3,25909,29500,Autopilot,No Accidents,450,CA,California
+Model 3,29113,29500,Autopilot,No Accidents,450,FL,Florida
+Model 3,35446,29800,Enhanced Autopilot,No Accidents,455,MN,Minnesota
+Model 3,29257,29800,Enhanced Autopilot,No Accidents,455,WA,Washington
+Model 3,38181,30100,Full Self-Driving ,No Accidents,460,MD,Maryland
+Model 3,16757,30600,Autopilot,No Accidents,469,MD,Maryland
+Model 3,20845,30900,Enhanced Autopilot,No Accidents,475,CA,California
+Model 3,57568,31200,Enhanced Autopilot,No Accidents,480,IL,Illinois
+Model 3,31779,31300,Enhanced Autopilot,No Accidents,482,CA,California
+Model 3,27045,31300,Autopilot,No Accidents,482,FL,Florida
+Model 3,61346,31600,Full Self-Driving ,No Accidents,487,MN,Minnesota
+Model 3,23668,31800,Full Self-Driving ,No Accidents,491,MD,Maryland
+Model 3,28665,31800,Enhanced Autopilot,No Accidents,491,MA,Massachusetts
+Model 3,27258,32100,Enhanced Autopilot,No Accidents,496,NJ,New Jersey
+Model 3,55411,32200,Full Self-Driving ,No Accidents,498,CA,California
+Model 3,40881,32200,Full Self-Driving ,Previously Repaired,498,NJ,New Jersey
+Model 3,71441,32300,Full Self-Driving ,No Accidents,500,NC,North Carolina
+Model 3,37371,33000,Full Self-Driving ,Previously Repaired,513,FL,Florida
+Model 3,40704,33400,Enhanced Autopilot,No Accidents,520,CA,California
+Model 3,26532,33600,Full Self-Driving ,Previously Repaired,523,FL,Florida
+Model 3,23637,34100,Autopilot,No Accidents,532,MN,Minnesota
+Model 3,39745,34100,Enhanced Autopilot,No Accidents,532,MN,Minnesota
+Model 3,16323,34200,Autopilot,No Accidents,534,CA,California
+Model 3,31312,34200,Autopilot,No Accidents,534,MN,Minnesota
+Model 3,29106,34300,Enhanced Autopilot,No Accidents,536,NJ,New Jersey
+Model 3,26922,34400,Enhanced Autopilot,No Accidents,538,NC,North Carolina
+Model 3,50611,34500,Full Self-Driving ,No Accidents,540,IL,Illinois
+Model 3,23704,34500,Enhanced Autopilot,No Accidents,540,FL,Florida
+Model 3,25641,35000,Autopilot,No Accidents,549,MD,Maryland
+Model 3,48254,35500,Full Self-Driving ,No Accidents,558,PA,Pennsylvania
+Model 3,12288,35700,Autopilot,No Accidents,561,CA,California
+Model 3,41858,35800,Full Self-Driving ,No Accidents,563,NJ,New Jersey
+Model 3,30522,36100,Enhanced Autopilot,No Accidents,568,FL,Florida
+Model 3,29414,32700,Autopilot,No Accidents,507,AZ,Arizona
+Model 3,33917,37800,Full Self-Driving ,No Accidents,599,AZ,Arizona
+Model 3,29414,32700,Autopilot,No Accidents,507,AZ,Arizona
+Model 3,33917,37800,Full Self-Driving ,No Accidents,599,AZ,Arizona
+Model 3,29414,32700,Autopilot,No Accidents,507,AZ,Arizona
+Model 3,33917,37800,Full Self-Driving ,No Accidents,599,AZ,Arizona
+Model 3,29414,32700,Autopilot,No Accidents,507,AZ,Arizona
+Model 3,33917,37800,Full Self-Driving ,No Accidents,599,AZ,Arizona
+Model 3,29414,32700,Autopilot,No Accidents,507,AZ,Arizona
+Model 3,33917,37800,Full Self-Driving ,No Accidents,599,AZ,Arizona
+Model 3,29414,32700,Autopilot,No Accidents,507,AZ,Arizona
+Model 3,33917,37800,Full Self-Driving ,No Accidents,599,AZ,Arizona
+Model 3,67663,26500,Enhanced Autopilot,No Accidents,396,CA,California
+Model 3,25909,29500,Autopilot,No Accidents,450,CA,California
+Model 3,31779,31300,Enhanced Autopilot,No Accidents,482,CA,California
+Model 3,40881,32200,Full Self-Driving ,Previously Repaired,498,CA,California
+Model 3,23637,34100,Autopilot,No Accidents,532,CA,California
+Model 3,29106,34300,Enhanced Autopilot,No Accidents,536,CA,California
+Model 3,67663,26500,Enhanced Autopilot,No Accidents,396,CA,California
+Model 3,25909,29500,Autopilot,No Accidents,450,CA,California
+Model 3,31779,31300,Enhanced Autopilot,No Accidents,482,CA,California
+Model 3,40881,32200,Full Self-Driving ,Previously Repaired,498,CA,California
+Model 3,23637,34100,Autopilot,No Accidents,532,CA,California
+Model 3,29106,34300,Enhanced Autopilot,No Accidents,536,CA,California
+Model 3,26315,37600,Full Self-Driving ,No Accidents,595,CA,California
+Model 3,20845,30900,Enhanced Autopilot,No Accidents,475,CA,California
+Model 3,40881,32200,Full Self-Driving ,Previously Repaired,498,CA,California
+Model 3,26315,37600,Full Self-Driving ,No Accidents,595,CA,California
+Model 3,19156,36600,Autopilot,No Accidents,577,WA,Washington
+Model 3,33596,30800,Enhanced Autopilot,No Accidents,473,AZ,Arizona
+Model 3,10649,32000,Autopilot,No Accidents,495,AZ,Arizona
+Model 3,15911,33200,Autopilot,No Accidents,516,AZ,Arizona
+Model 3,33596,30800,Enhanced Autopilot,No Accidents,473,AZ,Arizona
+Model 3,10649,32000,Autopilot,No Accidents,495,AZ,Arizona
+Model 3,15911,33200,Autopilot,No Accidents,516,AZ,Arizona
+Model 3,33596,30800,Enhanced Autopilot,No Accidents,473,AZ,Arizona
+Model 3,10649,32000,Autopilot,No Accidents,495,AZ,Arizona
+Model 3,15911,33200,Autopilot,No Accidents,516,AZ,Arizona
+Model 3,19156,36600,Autopilot,No Accidents,577,WA,Washington
+Model 3,33596,30800,Enhanced Autopilot,No Accidents,473,AZ,Arizona
+Model 3,10649,32000,Autopilot,No Accidents,495,AZ,Arizona
+Model 3,15911,33200,Autopilot,No Accidents,516,AZ,Arizona
+Model 3,33596,30800,Enhanced Autopilot,No Accidents,473,AZ,Arizona
+Model 3,10649,32000,Autopilot,No Accidents,495,AZ,Arizona
+Model 3,15911,33200,Autopilot,No Accidents,516,AZ,Arizona
+Model 3,33596,30800,Enhanced Autopilot,No Accidents,473,AZ,Arizona
+Model 3,10649,32000,Autopilot,No Accidents,495,AZ,Arizona
+Model 3,15911,33200,Autopilot,No Accidents,516,AZ,Arizona
+Model 3,38051,27300,Autopilot,No Accidents,410,MD,Maryland
+Model 3,42685,27400,Autopilot,No Accidents,412,GA,Georgia
+Model 3,34247,27800,Autopilot,No Accidents,419,IL,Illinois
+Model 3,32254,27800,Autopilot,Previously Repaired,419,MD,Maryland
+Model 3,43292,28400,Autopilot,No Accidents,430,CA,California
+Model 3,40657,28600,Autopilot,No Accidents,433,MN,Minnesota
+Model 3,44226,28800,Autopilot,No Accidents,437,GA,Georgia
+Model 3,41166,28800,Autopilot,No Accidents,437,FL,Florida
+Model 3,47857,29000,Enhanced Autopilot,No Accidents,441,MD,Maryland
+Model 3,41503,29100,Autopilot,No Accidents,442,CA,California
+Model 3,43255,29300,Autopilot,No Accidents,446,FL,Florida
+Model 3,37611,29300,Autopilot,No Accidents,446,MD,Maryland
+Model 3,30042,29300,Autopilot,No Accidents,446,NJ,New Jersey
+Model 3,24532,29400,Autopilot,No Accidents,448,MD,Maryland
+Model 3,48206,29400,Enhanced Autopilot,No Accidents,448,MD,Maryland
+Model 3,46901,29500,Enhanced Autopilot,No Accidents,450,CA,California
+Model 3,30131,29600,Autopilot,No Accidents,451,CA,California
+Model 3,26533,29800,Autopilot,No Accidents,455,MD,Maryland
+Model 3,36964,29800,Autopilot,No Accidents,455,CA,California
+Model 3,16382,29900,Autopilot,No Accidents,457,GA,Georgia
+Model 3,22994,30200,Autopilot,No Accidents,462,FL,Florida
+Model 3,49711,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,49942,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,32158,30300,Autopilot,No Accidents,464,CA,California
+Model 3,38468,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,36116,30300,Autopilot,No Accidents,464,TN,Tennessee
+Model 3,35496,30400,Autopilot,No Accidents,466,MD,Maryland
+Model 3,15780,30500,Autopilot,Previously Repaired,468,CA,California
+Model 3,20444,30500,Autopilot,Previously Repaired,468,FL,Florida
+Model 3,29339,30600,Autopilot,No Accidents,469,CA,California
+Model 3,31550,30700,Autopilot,No Accidents,471,CA,California
+Model 3,34375,30800,Full Self-Driving ,Previously Repaired,473,CA,California
+Model 3,27699,30800,Autopilot,No Accidents,473,MD,Maryland
+Model 3,27678,30800,Autopilot,No Accidents,473,CA,California
+Model 3,27784,30800,Autopilot,No Accidents,473,MD,Maryland
+Model 3,26859,30900,Enhanced Autopilot,No Accidents,475,MN,Minnesota
+Model 3,32345,31000,Autopilot,No Accidents,477,CA,California
+Model 3,27832,31000,Autopilot,No Accidents,477,GA,Georgia
+Model 3,30086,31100,Autopilot,No Accidents,478,NJ,New Jersey
+Model 3,30215,31100,Autopilot,No Accidents,478,GA,Georgia
+Model 3,4829,31100,Autopilot,No Accidents,478,IL,Illinois
+Model 3,31582,31100,Autopilot,No Accidents,478,CA,California
+Model 3,21801,31200,Autopilot,No Accidents,480,CA,California
+Model 3,17484,31400,Autopilot,No Accidents,484,NJ,New Jersey
+Model 3,28419,31400,Autopilot,No Accidents,484,IL,Illinois
+Model 3,27290,31400,Autopilot,No Accidents,484,CA,California
+Model 3,15154,31500,Autopilot,No Accidents,486,CA,California
+Model 3,27650,31500,Autopilot,No Accidents,486,MD,Maryland
+Model 3,29415,31500,Autopilot,No Accidents,486,GA,Georgia
+Model 3,33596,30800,Enhanced Autopilot,No Accidents,473,AZ,Arizona
+Model 3,10649,32000,Autopilot,No Accidents,495,AZ,Arizona
+Model 3,15911,33200,Autopilot,No Accidents,516,AZ,Arizona
+Model 3,43292,28400,Autopilot,No Accidents,430,CA,California
+Model 3,41503,29100,Autopilot,No Accidents,442,CA,California
+Model 3,46901,29500,Enhanced Autopilot,No Accidents,450,CA,California
+Model 3,30131,29600,Autopilot,No Accidents,451,CA,California
+Model 3,49711,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,49942,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,32158,30300,Autopilot,No Accidents,464,CA,California
+Model 3,38468,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,29339,30600,Autopilot,No Accidents,469,CA,California
+Model 3,31550,30700,Autopilot,No Accidents,471,CA,California
+Model 3,27678,30800,Autopilot,No Accidents,473,CA,California
+Model 3,27832,31000,Autopilot,No Accidents,477,CA,California
+Model 3,17484,31400,Autopilot,No Accidents,484,CA,California
+Model 3,28419,31400,Autopilot,No Accidents,484,CA,California
+Model 3,27650,31500,Autopilot,No Accidents,486,CA,California
+Model 3,29415,31500,Autopilot,No Accidents,486,CA,California
+Model 3,28221,31600,Autopilot,No Accidents,487,CA,California
+Model 3,21748,31900,Autopilot,No Accidents,493,CA,California
+Model 3,20395,32300,Autopilot,No Accidents,500,CA,California
+Model 3,22457,32400,Autopilot,No Accidents,502,CA,California
+Model 3,12968,33100,Autopilot,No Accidents,514,CA,California
+Model 3,47438,33100,Autopilot,No Accidents,514,CA,California
+Model 3,16241,33300,Autopilot,No Accidents,518,CA,California
+Model 3,10624,33300,Autopilot,No Accidents,518,CA,California
+Model 3,25710,33500,Enhanced Autopilot,No Accidents,522,CA,California
+Model 3,28892,33800,Full Self-Driving ,No Accidents,527,CA,California
+Model 3,13623,34800,Full Self-Driving ,No Accidents,545,CA,California
+Model 3,26728,35100,Full Self-Driving ,No Accidents,550,CA,California
+Model 3,27092,35700,Autopilot,No Accidents,561,CA,California
+Model 3,23925,36300,Autopilot,No Accidents,572,CA,California
+Model 3,15885,36400,Enhanced Autopilot,No Accidents,574,CA,California
+Model 3,21881,37300,Autopilot,No Accidents,590,CA,California
+Model 3,43292,28400,Autopilot,No Accidents,430,CA,California
+Model 3,41503,29100,Autopilot,No Accidents,442,CA,California
+Model 3,46901,29500,Enhanced Autopilot,No Accidents,450,CA,California
+Model 3,30131,29600,Autopilot,No Accidents,451,CA,California
+Model 3,49942,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,32158,30300,Autopilot,No Accidents,464,CA,California
+Model 3,49711,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,38468,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,29339,30600,Autopilot,No Accidents,469,CA,California
+Model 3,31550,30700,Autopilot,No Accidents,471,CA,California
+Model 3,27678,30800,Autopilot,No Accidents,473,CA,California
+Model 3,27832,31000,Autopilot,No Accidents,477,CA,California
+Model 3,17484,31400,Autopilot,No Accidents,484,CA,California
+Model 3,28419,31400,Autopilot,No Accidents,484,CA,California
+Model 3,27650,31500,Autopilot,No Accidents,486,CA,California
+Model 3,29415,31500,Autopilot,No Accidents,486,CA,California
+Model 3,28221,31600,Autopilot,No Accidents,487,CA,California
+Model 3,21748,31900,Autopilot,No Accidents,493,CA,California
+Model 3,20395,32300,Autopilot,No Accidents,500,CA,California
+Model 3,22457,32400,Autopilot,No Accidents,502,CA,California
+Model 3,12968,33100,Autopilot,No Accidents,514,CA,California
+Model 3,47438,33100,Autopilot,No Accidents,514,CA,California
+Model 3,10624,33300,Autopilot,No Accidents,518,CA,California
+Model 3,16241,33300,Autopilot,No Accidents,518,CA,California
+Model 3,25710,33500,Enhanced Autopilot,No Accidents,522,CA,California
+Model 3,28892,33800,Full Self-Driving ,No Accidents,527,CA,California
+Model 3,13623,34800,Full Self-Driving ,No Accidents,545,CA,California
+Model 3,26728,35100,Full Self-Driving ,No Accidents,550,CA,California
+Model 3,27092,35700,Autopilot,No Accidents,561,CA,California
+Model 3,23925,36300,Autopilot,No Accidents,572,CA,California
+Model 3,15885,36400,Enhanced Autopilot,No Accidents,574,CA,California
+Model 3,21881,37300,Autopilot,No Accidents,590,CA,California
+Model 3,43292,28400,Autopilot,No Accidents,430,CA,California
+Model 3,41503,29100,Autopilot,No Accidents,442,CA,California
+Model 3,46901,29500,Enhanced Autopilot,No Accidents,450,CA,California
+Model 3,30131,29600,Autopilot,No Accidents,451,CA,California
+Model 3,36964,29800,Autopilot,No Accidents,455,CA,California
+Model 3,49942,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,32158,30300,Autopilot,No Accidents,464,CA,California
+Model 3,49711,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,38468,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,15780,30500,Autopilot,Previously Repaired,468,CA,California
+Model 3,29339,30600,Autopilot,No Accidents,469,CA,California
+Model 3,31550,30700,Autopilot,No Accidents,471,CA,California
+Model 3,27678,30800,Autopilot,No Accidents,473,CA,California
+Model 3,27832,31000,Autopilot,No Accidents,477,CA,California
+Model 3,17484,31400,Autopilot,No Accidents,484,CA,California
+Model 3,28419,31400,Autopilot,No Accidents,484,CA,California
+Model 3,27650,31500,Autopilot,No Accidents,486,CA,California
+Model 3,29415,31500,Autopilot,No Accidents,486,CA,California
+Model 3,28221,31600,Autopilot,No Accidents,487,CA,California
+Model 3,21748,31900,Autopilot,No Accidents,493,CA,California
+Model 3,21311,32000,Autopilot,No Accidents,495,CA,California
+Model 3,20395,32300,Autopilot,No Accidents,500,CA,California
+Model 3,22457,32400,Autopilot,No Accidents,502,CA,California
+Model 3,12968,33100,Autopilot,No Accidents,514,CA,California
+Model 3,47438,33100,Autopilot,No Accidents,514,CA,California
+Model 3,10624,33300,Autopilot,No Accidents,518,CA,California
+Model 3,16241,33300,Autopilot,No Accidents,518,CA,California
+Model 3,25710,33500,Enhanced Autopilot,No Accidents,522,CA,California
+Model 3,28892,33800,Full Self-Driving ,No Accidents,527,CA,California
+Model 3,13623,34800,Full Self-Driving ,No Accidents,545,CA,California
+Model 3,26728,35100,Full Self-Driving ,No Accidents,550,CA,California
+Model 3,27092,35700,Autopilot,No Accidents,561,CA,California
+Model 3,23925,36300,Autopilot,No Accidents,572,CA,California
+Model 3,15885,36400,Enhanced Autopilot,No Accidents,574,CA,California
+Model 3,21881,37300,Autopilot,No Accidents,590,CA,California
+Model 3,38051,27300,Autopilot,No Accidents,410,MD,Maryland
+Model 3,42685,27400,Autopilot,No Accidents,412,GA,Georgia
+Model 3,34247,27800,Autopilot,No Accidents,419,IL,Illinois
+Model 3,32254,27800,Autopilot,Previously Repaired,419,MD,Maryland
+Model 3,43292,28400,Autopilot,No Accidents,430,CA,California
+Model 3,40657,28600,Autopilot,No Accidents,433,MN,Minnesota
+Model 3,44226,28800,Autopilot,No Accidents,437,GA,Georgia
+Model 3,41166,28800,Autopilot,No Accidents,437,FL,Florida
+Model 3,47857,29000,Enhanced Autopilot,No Accidents,441,MD,Maryland
+Model 3,41503,29100,Autopilot,No Accidents,442,CA,California
+Model 3,43255,29300,Autopilot,No Accidents,446,FL,Florida
+Model 3,37611,29300,Autopilot,No Accidents,446,MD,Maryland
+Model 3,30042,29300,Autopilot,No Accidents,446,NJ,New Jersey
+Model 3,24532,29400,Autopilot,No Accidents,448,MD,Maryland
+Model 3,48206,29400,Enhanced Autopilot,No Accidents,448,MD,Maryland
+Model 3,46901,29500,Enhanced Autopilot,No Accidents,450,CA,California
+Model 3,30131,29600,Autopilot,No Accidents,451,CA,California
+Model 3,26533,29800,Autopilot,No Accidents,455,MD,Maryland
+Model 3,36964,29800,Autopilot,No Accidents,455,CA,California
+Model 3,16382,29900,Autopilot,No Accidents,457,GA,Georgia
+Model 3,22994,30200,Autopilot,No Accidents,462,FL,Florida
+Model 3,49711,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,49942,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,32158,30300,Autopilot,No Accidents,464,CA,California
+Model 3,38468,30300,Enhanced Autopilot,No Accidents,464,CA,California
+Model 3,36116,30300,Autopilot,No Accidents,464,TN,Tennessee
+Model 3,35496,30400,Autopilot,No Accidents,466,MD,Maryland
+Model 3,15780,30500,Autopilot,Previously Repaired,468,CA,California
+Model 3,20444,30500,Autopilot,Previously Repaired,468,FL,Florida
+Model 3,29339,30600,Autopilot,No Accidents,469,CA,California
+Model 3,31550,30700,Autopilot,No Accidents,471,CA,California
+Model 3,34375,30800,Full Self-Driving ,Previously Repaired,473,CA,California
+Model 3,27699,30800,Autopilot,No Accidents,473,MD,Maryland
+Model 3,27678,30800,Autopilot,No Accidents,473,CA,California
+Model 3,33596,30800,Enhanced Autopilot,No Accidents,473,AZ,Arizona
+Model 3,27784,30800,Autopilot,No Accidents,473,MD,Maryland
+Model 3,26859,30900,Enhanced Autopilot,No Accidents,475,MN,Minnesota
+Model 3,32345,31000,Autopilot,No Accidents,477,CA,California
+Model 3,27832,31000,Autopilot,No Accidents,477,GA,Georgia
+Model 3,30086,31100,Autopilot,No Accidents,478,NJ,New Jersey
+Model 3,30215,31100,Autopilot,No Accidents,478,GA,Georgia
+Model 3,4829,31100,Autopilot,No Accidents,478,IL,Illinois
+Model 3,31582,31100,Autopilot,No Accidents,478,CA,California
+Model 3,21801,31200,Autopilot,No Accidents,480,CA,California
+Model 3,17484,31400,Autopilot,No Accidents,484,NJ,New Jersey
+Model 3,28419,31400,Autopilot,No Accidents,484,IL,Illinois
+Model 3,27290,31400,Autopilot,No Accidents,484,CA,California
+Model 3,15154,31500,Autopilot,No Accidents,486,CA,California
+Model 3,10520,34600,Autopilot,Previously Repaired,541,CA,California
+Model 3,35255,36000,Full Self-Driving ,No Accidents,567,CA,California
+Model 3,16950,36700,Enhanced Autopilot,No Accidents,579,CA,California
+Model 3,9610,36900,Enhanced Autopilot,No Accidents,583,CA,California
+Model 3,8064,40900,Autopilot,No Accidents,655,CA,California
+Model 3,10520,34600,Autopilot,Previously Repaired,541,CA,California
+Model 3,35255,36000,Full Self-Driving ,No Accidents,567,CA,California
+Model 3,16950,36700,Enhanced Autopilot,No Accidents,579,CA,California
+Model 3,9610,36900,Enhanced Autopilot,No Accidents,583,CA,California
+Model 3,8064,40900,Autopilot,No Accidents,655,CA,California
+Model 3,10520,34600,Autopilot,Previously Repaired,541,CA,California
+Model 3,19435,35400,Enhanced Autopilot,No Accidents,556,CA,California
+Model 3,26035,35800,Full Self-Driving ,No Accidents,563,CA,California
+Model 3,35255,36000,Full Self-Driving ,No Accidents,567,CA,California
+Model 3,16950,36700,Enhanced Autopilot,No Accidents,579,CA,California
+Model 3,9610,36900,Enhanced Autopilot,No Accidents,583,CA,California
+Model 3,30542,40200,Enhanced Autopilot,No Accidents,642,CA,California
+Model 3,8064,40900,Autopilot,No Accidents,655,CA,California
+Model 3,15140,44300,Full Self-Driving ,No Accidents,716,CA,California
+Model 3,19435,35400,Enhanced Autopilot,No Accidents,556,CA,California
+Model 3,26035,35800,Full Self-Driving ,No Accidents,563,CA,California
+Model 3,15733,38000,Enhanced Autopilot,No Accidents,603,CA,California
+Model 3,14680,38800,Autopilot,No Accidents,617,CA,California
+Model 3,30542,40200,Enhanced Autopilot,No Accidents,642,CA,California
+Model 3,15140,44300,Full Self-Driving ,No Accidents,716,CA,California
+Model 3,1036,38600,Enhanced Autopilot,No Accidents,613,TN,Tennessee
+Model 3,9016,35400,Enhanced Autopilot,Previously Repaired,556,MD,Maryland
+Model 3,2013,36000,Enhanced Autopilot,No Accidents,567,NJ,New Jersey
+Model 3,3007,36900,Enhanced Autopilot,No Accidents,583,NJ,New Jersey
+Model 3,28009,38200,Enhanced Autopilot,Previously Repaired,606,CA,California
+Model 3,131,38800,Full Self-Driving ,No Accidents,617,MD,Maryland
+Model 3,28308,40400,Enhanced Autopilot,No Accidents,646,CO,Colorado
+Model 3,8952,41900,Autopilot,No Accidents,673,MN,Minnesota
+Model 3,32735,41900,Enhanced Autopilot,No Accidents,673,CO,Colorado
+Model 3,4208,42000,Autopilot,No Accidents,674,FL,Florida
+Model 3,14123,42200,Autopilot,No Accidents,678,CA,California
+Model 3,16806,43600,Enhanced Autopilot,No Accidents,703,CA,California
+Model 3,7949,43900,Autopilot,No Accidents,709,IL,Illinois
+Model 3,23193,45200,Full Self-Driving ,No Accidents,732,IL,Illinois
+Model 3,15960,46700,Enhanced Autopilot,No Accidents,759,WA,Washington
+Model 3,9016,35400,Enhanced Autopilot,Previously Repaired,556,MD,Maryland
+Model 3,2013,36000,Enhanced Autopilot,No Accidents,567,NJ,New Jersey
+Model 3,3007,36900,Enhanced Autopilot,No Accidents,583,NJ,New Jersey
+Model 3,28009,38200,Enhanced Autopilot,Previously Repaired,606,CA,California
+Model 3,1036,38600,Enhanced Autopilot,No Accidents,613,TN,Tennessee
+Model 3,131,38800,Full Self-Driving ,No Accidents,617,MD,Maryland
+Model 3,28308,40400,Enhanced Autopilot,No Accidents,646,CO,Colorado
+Model 3,8952,41900,Autopilot,No Accidents,673,MN,Minnesota
+Model 3,32735,41900,Enhanced Autopilot,No Accidents,673,CO,Colorado
+Model 3,4208,42000,Autopilot,No Accidents,674,FL,Florida
+Model 3,14123,42200,Autopilot,No Accidents,678,CA,California
+Model 3,16806,43600,Enhanced Autopilot,No Accidents,703,CA,California
+Model 3,7949,43900,Autopilot,No Accidents,709,IL,Illinois
+Model 3,23193,45200,Full Self-Driving ,No Accidents,732,IL,Illinois
+Model 3,15960,46700,Enhanced Autopilot,No Accidents,759,WA,Washington
+Model 3,9016,35400,Enhanced Autopilot,Previously Repaired,556,MD,Maryland
+Model 3,2013,36000,Enhanced Autopilot,No Accidents,567,NJ,New Jersey
+Model 3,3007,36900,Enhanced Autopilot,No Accidents,583,NJ,New Jersey
+Model 3,28009,38200,Enhanced Autopilot,Previously Repaired,606,CA,California
+Model 3,1036,38600,Enhanced Autopilot,No Accidents,613,TN,Tennessee
+Model 3,131,38800,Full Self-Driving ,No Accidents,617,MD,Maryland
+Model 3,28308,40400,Enhanced Autopilot,No Accidents,646,CO,Colorado
+Model 3,8952,41900,Autopilot,No Accidents,673,MN,Minnesota
+Model 3,32735,41900,Enhanced Autopilot,No Accidents,673,CO,Colorado
+Model 3,4208,42000,Autopilot,No Accidents,674,FL,Florida
+Model 3,14123,42200,Autopilot,No Accidents,678,CA,California
+Model 3,16806,43600,Enhanced Autopilot,No Accidents,703,CA,California
+Model 3,7949,43900,Autopilot,No Accidents,709,IL,Illinois
+Model 3,23193,45200,Full Self-Driving ,No Accidents,732,IL,Illinois
+Model 3,15960,46700,Enhanced Autopilot,No Accidents,759,WA,Washington
+Model 3,9016,35400,Enhanced Autopilot,Previously Repaired,556,MD,Maryland
+Model 3,2013,36000,Enhanced Autopilot,No Accidents,567,NJ,New Jersey
+Model 3,3007,36900,Enhanced Autopilot,No Accidents,583,NJ,New Jersey
+Model 3,28009,38200,Enhanced Autopilot,Previously Repaired,606,CA,California
+Model 3,1036,38600,Enhanced Autopilot,No Accidents,613,TN,Tennessee
+Model 3,131,38800,Full Self-Driving ,No Accidents,617,MD,Maryland
+Model 3,28308,40400,Enhanced Autopilot,No Accidents,646,CO,Colorado
+Model 3,8952,41900,Autopilot,No Accidents,673,MN,Minnesota
+Model 3,32735,41900,Enhanced Autopilot,No Accidents,673,CO,Colorado
+Model 3,4208,42000,Autopilot,No Accidents,674,FL,Florida
+Model 3,14123,42200,Autopilot,No Accidents,678,CA,California
+Model 3,16806,43600,Enhanced Autopilot,No Accidents,703,CA,California
+Model 3,7949,43900,Autopilot,No Accidents,709,IL,Illinois
+Model 3,23193,45200,Full Self-Driving ,No Accidents,732,IL,Illinois
+Model 3,15960,46700,Enhanced Autopilot,No Accidents,759,WA,Washington
+Model 3,9016,35400,Enhanced Autopilot,Previously Repaired,556,MD,Maryland
+Model 3,2013,36000,Enhanced Autopilot,No Accidents,567,NJ,New Jersey
+Model 3,3007,36900,Enhanced Autopilot,No Accidents,583,NJ,New Jersey
+Model 3,28009,38200,Enhanced Autopilot,Previously Repaired,606,CA,California
+Model 3,1036,38600,Enhanced Autopilot,No Accidents,613,TN,Tennessee
+Model 3,131,38800,Full Self-Driving ,No Accidents,617,MD,Maryland
+Model 3,28308,40400,Enhanced Autopilot,No Accidents,646,CO,Colorado
+Model 3,8952,41900,Autopilot,No Accidents,673,MN,Minnesota
+Model 3,32735,41900,Enhanced Autopilot,No Accidents,673,CO,Colorado
+Model 3,4208,42000,Autopilot,No Accidents,674,FL,Florida
+Model 3,14123,42200,Autopilot,No Accidents,678,CA,California
+Model 3,16806,43600,Enhanced Autopilot,No Accidents,703,CA,California
+Model 3,7949,43900,Autopilot,No Accidents,709,IL,Illinois
+Model 3,23193,45200,Full Self-Driving ,No Accidents,732,IL,Illinois
+Model 3,15960,46700,Enhanced Autopilot,No Accidents,759,WA,Washington
+Model 3,9016,35400,Enhanced Autopilot,Previously Repaired,556,MD,Maryland
+Model 3,2013,36000,Enhanced Autopilot,No Accidents,567,NJ,New Jersey
+Model 3,3007,36900,Enhanced Autopilot,No Accidents,583,NJ,New Jersey
+Model 3,28009,38200,Enhanced Autopilot,Previously Repaired,606,CA,California
+Model 3,1036,38600,Enhanced Autopilot,No Accidents,613,TN,Tennessee
+Model 3,131,38800,Full Self-Driving ,No Accidents,617,MD,Maryland
+Model 3,28308,40400,Enhanced Autopilot,No Accidents,646,CO,Colorado
+Model 3,8952,41900,Autopilot,No Accidents,673,MN,Minnesota
+Model 3,32735,41900,Enhanced Autopilot,No Accidents,673,CO,Colorado
+Model 3,4208,42000,Autopilot,No Accidents,674,FL,Florida
+Model 3,14123,42200,Autopilot,No Accidents,678,CA,California
+Model 3,16806,43600,Enhanced Autopilot,No Accidents,703,CA,California
+Model 3,7949,43900,Autopilot,No Accidents,709,IL,Illinois
+Model 3,23193,45200,Full Self-Driving ,No Accidents,732,IL,Illinois
+Model 3,15960,46700,Enhanced Autopilot,No Accidents,759,WA,Washington
+Model 3,9016,35400,Enhanced Autopilot,Previously Repaired,556,MD,Maryland
+Model 3,2013,36000,Enhanced Autopilot,No Accidents,567,NJ,New Jersey
+Model 3,3007,36900,Enhanced Autopilot,No Accidents,583,NJ,New Jersey
+Model 3,28009,38200,Enhanced Autopilot,Previously Repaired,606,CA,California
+Model 3,1036,38600,Enhanced Autopilot,No Accidents,613,TN,Tennessee
+Model 3,131,38800,Full Self-Driving ,No Accidents,617,MD,Maryland
+Model 3,28308,40400,Enhanced Autopilot,No Accidents,646,CO,Colorado
+Model 3,8952,41900,Autopilot,No Accidents,673,MN,Minnesota
+Model 3,32735,41900,Enhanced Autopilot,No Accidents,673,CO,Colorado
+Model 3,4208,42000,Autopilot,No Accidents,674,FL,Florida
+Model 3,14123,42200,Autopilot,No Accidents,678,CA,California
+Model 3,16806,43600,Enhanced Autopilot,No Accidents,703,CA,California
+Model 3,7949,43900,Autopilot,No Accidents,709,IL,Illinois
+Model 3,23193,45200,Full Self-Driving ,No Accidents,732,IL,Illinois
+Model 3,15960,46700,Enhanced Autopilot,No Accidents,759,WA,Washington
+Model 3,16806,43600,Enhanced Autopilot,No Accidents,703,CA,California
+Model 3,9016,35400,Enhanced Autopilot,Previously Repaired,556,MD,Maryland
+Model 3,2013,36000,Enhanced Autopilot,No Accidents,567,NJ,New Jersey
+Model 3,3007,36900,Enhanced Autopilot,No Accidents,583,NJ,New Jersey
+Model 3,28009,38200,Enhanced Autopilot,Previously Repaired,606,CA,California
+Model 3,1036,38600,Enhanced Autopilot,No Accidents,613,TN,Tennessee
+Model 3,131,38800,Full Self-Driving ,No Accidents,617,MD,Maryland
+Model 3,28308,40400,Enhanced Autopilot,No Accidents,646,CO,Colorado
+Model 3,8952,41900,Autopilot,No Accidents,673,MN,Minnesota
+Model 3,32735,41900,Enhanced Autopilot,No Accidents,673,CO,Colorado
+Model 3,4208,42000,Autopilot,No Accidents,674,FL,Florida
+Model 3,14123,42200,Autopilot,No Accidents,678,CA,California
+Model 3,7949,43900,Autopilot,No Accidents,709,IL,Illinois
+Model 3,23193,45200,Full Self-Driving ,No Accidents,732,IL,Illinois
+Model 3,15960,46700,Enhanced Autopilot,No Accidents,759,WA,Washington
+Model 3,1036,38600,Enhanced Autopilot,No Accidents,613,TN,Tennessee
+Model 3,28009,38200,Enhanced Autopilot,Previously Repaired,606,CA,California
+Model 3,14123,42200,Autopilot,No Accidents,678,CA,California
+Model 3,16806,43600,Enhanced Autopilot,No Accidents,703,CA,California
+Model 3,9016,35400,Enhanced Autopilot,Previously Repaired,556,MD,Maryland
+Model 3,2013,36000,Enhanced Autopilot,No Accidents,567,NJ,New Jersey
+Model 3,3007,36900,Enhanced Autopilot,No Accidents,583,NJ,New Jersey
+Model 3,131,38800,Full Self-Driving ,No Accidents,617,MD,Maryland
+Model 3,28308,40400,Enhanced Autopilot,No Accidents,646,CO,Colorado
+Model 3,8952,41900,Autopilot,No Accidents,673,MN,Minnesota
+Model 3,32735,41900,Enhanced Autopilot,No Accidents,673,CO,Colorado
+Model 3,4208,42000,Autopilot,No Accidents,674,FL,Florida
+Model 3,7949,43900,Autopilot,No Accidents,709,IL,Illinois
+Model 3,23193,45200,Full Self-Driving ,No Accidents,732,IL,Illinois
+Model 3,15960,46700,Enhanced Autopilot,No Accidents,759,WA,Washington
