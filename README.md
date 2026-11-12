@@ -33,6 +33,9 @@ The primary dataset used for this analysis is the "Tesla Stock Dataset.csv" file
 - Created calculated fields like EMI (if missing)
 - Prepared structured layout for Power BI import
 
+<img width="1080" height="447" alt="dataset" src="https://github.com/user-attachments/assets/3b2b2c0e-a520-4a9a-b522-b670dae81ce7" />
+
+
 ### Dataset Breakdown
 The dataset used for this analysis includes:
 - Tesla model name
@@ -151,6 +154,12 @@ Each Tesla model has a dedicated dashboard featuring the following key visuals:
 - Mileage by State
 - Average Price by Driver Assist System (DAS)
 - 3D Vehicle View (UI/UX enhancement)
+<img width="843" height="449" alt="1" src="https://github.com/user-attachments/assets/1b85c6d0-3a99-4ea8-96a6-c38a2b58306b" />
+<img width="842" height="452" alt="2" src="https://github.com/user-attachments/assets/80248e72-11ab-4c2b-a52d-b4f44a4c4b46" />
+<img width="841" height="452" alt="3" src="https://github.com/user-attachments/assets/65714f3e-b6c5-4101-b44e-cdfaefe5c7db" />
+<img width="842" height="449" alt="4" src="https://github.com/user-attachments/assets/88878d50-c9a9-402d-bb7f-ca3d6ec01785" />
+<img width="843" height="453" alt="5" src="https://github.com/user-attachments/assets/21e965b0-8844-47a3-8393-dd100ec86823" />
+
 ### Insights and Findings
 The insights and findings are summarized as follows:
 1. Model Y is the most affordable option at ~$33.9K with the lowest EMI ($529.37).
